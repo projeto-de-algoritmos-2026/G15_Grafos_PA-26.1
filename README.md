@@ -20,13 +20,55 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+**Framework**: Django<br>
+
+**Pré-requisitos**: Python 3 instalado no sistema.
+
+**Passo a passo**:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone git@github.com:projeto-de-algoritmos-2026/G15_Grafos_PA-26.1.git
+   cd G15_Grafos_PA-26.1
+   ```
+
+2. Crie e ative um ambiente virtual (opcional, mas recomendado):
+
+   ```bash
+   python -m venv .venv
+   # No Linux/macOS:
+   source .venv/bin/activate
+   # No Windows:
+   .venv\Scripts\activate
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Aplique as migrações do banco de dados:
+
+   ```bash
+   python manage.py migrate
+   ```
+
+5. Inicie o servidor local:
+
+   ```bash
+   python manage.py runserver
+   ```
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Após iniciar o servidor (`python manage.py runserver`), abra o seu navegador de preferência e acesse o endereço padrão:
+
+```text
+http://127.0.0.1:8000/
+```
 
 ## Outros
 
