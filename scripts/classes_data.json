@@ -1643,5 +1643,3134 @@
         "professor": "CARLA SILVA ROCHA AGUIAR",
         "schedule": "24T45",
         "location": "FCTE - S3 / S4"
+    },
+    {
+        "subject": "DPG1117 - INTRODUÇÃO A ANÁLISE",
+        "class_id": "01",
+        "professor": "WILLIAN CINTRA DA SILVA",
+        "schedule": "26T23 5T45",
+        "location": "Segundas: miniauditório; Terças e quintas: subsolo"
+    },
+    {
+        "subject": "MAT0010 - GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+        "class_id": "01",
+        "professor": "JOSE ANTONIO OLIVEIRA DE FREITAS",
+        "schedule": "35T45",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0010 - GEOMETRIA ANALÍTICA PARA MATEMÁTICA",
+        "class_id": "02",
+        "professor": "TARCISIO CASTRO SILVA",
+        "schedule": "2N34 4N12",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "02",
+        "professor": "HENRIQUE COSTA DOS REIS",
+        "schedule": "35N34",
+        "location": "ICC ANF. 3"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "03",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "24N12",
+        "location": "2N12(ICC ANF.15) 4N12(ICC ANF.16)"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "04",
+        "professor": "JIAZHENG ZHOU",
+        "schedule": "24N12",
+        "location": "ICC ANF.19"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "05",
+        "professor": "HENRIQUE COSTA DOS REIS",
+        "schedule": "2N12 6N34",
+        "location": "2N12(ICC ANF. 4) 6N34(ICC ANF.18)"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "06",
+        "professor": "JIAZHENG ZHOU",
+        "schedule": "24T45",
+        "location": "4T45(ICC ANF. 3) 2T45(ICC ANF. 4)"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "07",
+        "professor": "VANEZA DE CARLI TIBULO",
+        "schedule": "24T45",
+        "location": "2T45(ICC ANF. 3) 4T45(ICC ANF. 5)"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "08",
+        "professor": "IRVING JOSEPH RAMIREZ BARRETO",
+        "schedule": "24T45",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "09",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "35N34",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0022 - MATEMATICA 1",
+        "class_id": "10",
+        "professor": "ALINE GOMES DA SILVA PINTO",
+        "schedule": "35M12",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0023 - MATEMATICA 2",
+        "class_id": "02",
+        "professor": "VANEZA DE CARLI TIBULO",
+        "schedule": "46T23",
+        "location": "ICC ANF.15"
+    },
+    {
+        "subject": "MAT0023 - MATEMATICA 2",
+        "class_id": "03",
+        "professor": "WALTEIR DE PAULA FERREIRA",
+        "schedule": "35T23",
+        "location": "ICC ANF.16"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "01",
+        "professor": "WESCLEY WELL VICENTE BEZERRA",
+        "schedule": "5N1234 6N12",
+        "location": "FUP UAC: A1-48/50"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "02",
+        "professor": "MARCELO FERNANDES FURTADO",
+        "schedule": "246T23",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "03",
+        "professor": "ALEX CARRAZEDO DANTAS",
+        "schedule": "2N12 35N34",
+        "location": "35N34(ICC ANF. 4) 2N12(ICC ANF. 6)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "04",
+        "professor": "ANDREA GENOVESE DE OLIVEIRA",
+        "schedule": "246M12",
+        "location": "2M12(ICC ANF.12) 46M12(ICC ANF.19)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "05",
+        "professor": "ANDREA GENOVESE DE OLIVEIRA",
+        "schedule": "235M34",
+        "location": "2M34(ICC ANF. 4) 35M34(ICC ANF.13)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "06",
+        "professor": "MAURO MORAES ALVES PATRAO",
+        "schedule": "235M34",
+        "location": "3M34(ICC ANF. 3) 2M34(ICC ANF. 4) 5M34(ICC ANF.16)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "07",
+        "professor": "ALBERTO MASAYOSHI FARIA OHASHI",
+        "schedule": "2N12 35N34",
+        "location": "2N12(ICC ANF.12) 35N34(ICC ANF.14)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "08",
+        "professor": "MELISSA DE SOUSA LUIZ",
+        "schedule": "2N12 35N34",
+        "location": "2N12(ICC ANF.12) 35N34(ICC ANF. 6)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "09",
+        "professor": "MAURO MORAES ALVES PATRAO",
+        "schedule": "2N12 35N34",
+        "location": "2N12(ICC ANF.12) 35N34(ICC ANF.15)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "10",
+        "professor": "NILTON MOURA BARROSO NETO",
+        "schedule": "246N12",
+        "location": "2N12(ICC ANF. 7) 46N12(ICC ANF.18)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "11",
+        "professor": "NORAI ROMEU ROCCO",
+        "schedule": "246T23",
+        "location": "46T23(BSA N AT 29/41) 2T23(ICC ANF. 4)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "12",
+        "professor": "RICARDO RUVIARO",
+        "schedule": "235M34",
+        "location": "5M34(ICC ANF.11) 2M34(ICC ANF.18) 3M34(ICC ANF.16)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "13",
+        "professor": "DANIELE DA SILVA BARATELA MARTINS NETO",
+        "schedule": "356M12",
+        "location": "3M12(ICC ANF.12) 56M12(ICC ANF. 5)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "14",
+        "professor": "MELISSA DE SOUSA LUIZ",
+        "schedule": "234M34",
+        "location": "34M34(ICC ANF.14) 2M34(ICC ANF.13)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "15",
+        "professor": "LUCIANA MARIA DIAS DE AVILA RODRIGUES",
+        "schedule": "356M12",
+        "location": "ICC ANF. 4"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "16",
+        "professor": "JULIA MITSUNO KATO AIZA ALVAREZ",
+        "schedule": "235M34",
+        "location": "5M34(ICC ANF. 3) 3M34(ICC ANF. 4) 2M34(ICC ANF.13)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "17",
+        "professor": "WANG QIAOLING",
+        "schedule": "246T23",
+        "location": "2T23(ICC ANF. 4) 46T23(ICC ANF. 2)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "18",
+        "professor": "ROBERTO OSCAR GANDULFO",
+        "schedule": "246M12",
+        "location": "2M12(ICC ANF.12) 46M12(ICC ANF.15)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "19",
+        "professor": "MANUELA CAETANO MARTINS DE REZENDE",
+        "schedule": "246T23",
+        "location": "2T23(ICC ANF. 2) 46T23(ICC ANF.16)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "20",
+        "professor": "ANTONIO LUIZ DE MELO",
+        "schedule": "2M1234 4M12",
+        "location": "FUP UAC: A1-48/50"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "21",
+        "professor": "ANDREA GENOVESE DE OLIVEIRA",
+        "schedule": "246M12",
+        "location": "2M12(ICC ANF.11) 46M12(ICC ANF.16)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "22",
+        "professor": "SAULO RODRIGO MEDRADO",
+        "schedule": "356M12",
+        "location": "ICC ANF.12"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "23",
+        "professor": "NILTON MOURA BARROSO NETO",
+        "schedule": "246N12",
+        "location": "46N12(ICC ANF.15) 2N12(ICC ANF. 7)"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "24",
+        "professor": "RICARDO RAMOS FRAGELLI",
+        "schedule": "246M34",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "25",
+        "professor": "TERCIO BRUM",
+        "schedule": "235T45",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "26",
+        "professor": "RONNI GERALDO GOMES DE AMORIM",
+        "schedule": "235M12",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "27",
+        "professor": "MATHEUS BERNARDINI DE SOUZA",
+        "schedule": "356T23",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "28",
+        "professor": "ANDREA GENOVESE DE OLIVEIRA",
+        "schedule": "2M12 35M5  35T1",
+        "location": "ICC ANF.11"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "29",
+        "professor": "RICARDO RUVIARO",
+        "schedule": "2M34 35M5  35T1",
+        "location": "ICC ANF.18"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "30",
+        "professor": "MANUELA CAETANO MARTINS DE REZENDE",
+        "schedule": "46M5  2T23 46T1",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0025 - CÁLCULO 1",
+        "class_id": "31",
+        "professor": "RUI SEIMETZ",
+        "schedule": "3M12 46M5  46T1",
+        "location": "3M12 (Anf. 4) 46M5 46T1 (ICC ASS 402/10)"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "02",
+        "professor": "YEVSEY YEHOSHUA SOBOLEVSKY",
+        "schedule": "235T23",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "03",
+        "professor": "IRVING JOSEPH RAMIREZ BARRETO",
+        "schedule": "235M34",
+        "location": "2M34(BSA N AT 09/41) 35M34(ICC ANF. 2)"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "04",
+        "professor": "ALEXEI KRASSILNIKOV",
+        "schedule": "246T23",
+        "location": "ICC ANF. 7"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "05",
+        "professor": "KELLCIO OLIVEIRA ARAUJO",
+        "schedule": "235M34",
+        "location": "2M34(BSA N A1 29/41) 35M34(ICC ANF. 6)"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "06",
+        "professor": "EDUARDO ANTONIO DA SILVA",
+        "schedule": "235M12",
+        "location": "ICC ANF.16"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "07",
+        "professor": "JANETE SOARES DE GAMBOA",
+        "schedule": "235M34",
+        "location": "ICC ANF.17"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "08",
+        "professor": "WALTEIR DE PAULA FERREIRA",
+        "schedule": "235M34",
+        "location": "ICC ANF. 7"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "09",
+        "professor": "JANETE SOARES DE GAMBOA",
+        "schedule": "235M12",
+        "location": "2M12(ICC ANF. 2) 35M12(ICC ANF.18)"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "10",
+        "professor": "CARLOS MABER CARRION RIVEROS",
+        "schedule": "246T23",
+        "location": "ICC ANF.18"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "11",
+        "professor": "IRVING JOSEPH RAMIREZ BARRETO",
+        "schedule": "356M12",
+        "location": "35M12(ICC ANF. 3) 6M12(ICC ANF. 2)"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "12",
+        "professor": "ALEXEI KRASSILNIKOV",
+        "schedule": "3N34 56N12",
+        "location": "ICC ANF.16"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "13",
+        "professor": "KELLCIO OLIVEIRA ARAUJO",
+        "schedule": "2N12 35N34",
+        "location": "ICC ANF. 5"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "14",
+        "professor": "LUIZA YOKO TANEGUTI",
+        "schedule": "246M12",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "MAT0026 - CÁLCULO 2",
+        "class_id": "15",
+        "professor": "TAIS CALLIERO TOGNETTI",
+        "schedule": "235M34",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "01",
+        "professor": "LUIZ CLAUDIO PEREIRA",
+        "schedule": "2M1234 4M12",
+        "location": "FUP UEP: AT-79/11"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "02",
+        "professor": "RADERSON RODRIGUES DA SILVA",
+        "schedule": "235M34",
+        "location": "ICC BT 027"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "03",
+        "professor": "ADAIL DE CASTRO CAVALHEIRO",
+        "schedule": "356M12",
+        "location": "ICC ASS 433/10"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "04",
+        "professor": "RADERSON RODRIGUES DA SILVA",
+        "schedule": "356M12",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "05",
+        "professor": "ADAIL DE CASTRO CAVALHEIRO",
+        "schedule": "235M34",
+        "location": "2M34(ICC ANF.14) 35M34(ICC ANF. 8)"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "06",
+        "professor": "VICTOR PETROGRADSKIY",
+        "schedule": "246T23",
+        "location": "ICC ANF.14"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "07",
+        "professor": "WALTEIR DE PAULA FERREIRA",
+        "schedule": "246T23",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "08",
+        "professor": "PEDRO ROITMAN",
+        "schedule": "356M12",
+        "location": "ICC ANF.11"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "09",
+        "professor": "GUY GREBOT",
+        "schedule": "356M12",
+        "location": "ICC ANF.13"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "10",
+        "professor": "BENEDITO LEANDRO NETO",
+        "schedule": "2N12 35N34",
+        "location": "ICC ANF.18"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "11",
+        "professor": "VINICIUS DE CARVALHO RISPOLI",
+        "schedule": "235T45",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "MAT0027 - CÁLCULO 3",
+        "class_id": "12",
+        "professor": "TATIANE DA SILVA EVANGELISTA",
+        "schedule": "235M34",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "MAT0028 - VARIAVEL COMPLEXA 1",
+        "class_id": "01",
+        "professor": "LINEU DA COSTA ARAUJO NETO",
+        "schedule": "235T23",
+        "location": "ICC ANF.15"
+    },
+    {
+        "subject": "MAT0028 - VARIAVEL COMPLEXA 1",
+        "class_id": "02",
+        "professor": "RICARDO PARREIRA DA SILVA",
+        "schedule": "2N12 35N34",
+        "location": "ICC ASS 402/10"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "01",
+        "professor": "HEMAR TEIXEIRA GODINHO",
+        "schedule": "24T45",
+        "location": "ICC ANF.16"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "02",
+        "professor": "LUCAS CONQUE SECO FERREIRA",
+        "schedule": "46M34",
+        "location": "ICC ANF.15"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "03",
+        "professor": "CARLOS MABER CARRION RIVEROS",
+        "schedule": "24T45",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "04",
+        "professor": "WANG QIAOLING",
+        "schedule": "24T45",
+        "location": "ICC ANF.19"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "05",
+        "professor": "IRINA SVIRIDOVA",
+        "schedule": "35N12",
+        "location": "ICC ANF.15"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "06",
+        "professor": "MELISSA DE SOUSA LUIZ",
+        "schedule": "24T45",
+        "location": "ICC ANF.13"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "07",
+        "professor": "DIEGO MARQUES FERREIRA",
+        "schedule": "35T45",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "08",
+        "professor": "LUCAS CONQUE SECO FERREIRA",
+        "schedule": "35T45",
+        "location": "ICC ANF.13"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "09",
+        "professor": "HENRIQUE COSTA DOS REIS",
+        "schedule": "24T45",
+        "location": "ICC ANF.17"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "10",
+        "professor": "HENRIQUE COSTA DOS REIS",
+        "schedule": "35T45",
+        "location": "ICC ANF. 5"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "11",
+        "professor": "RICARDO PARREIRA DA SILVA",
+        "schedule": "35N12",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "12",
+        "professor": "LUIZA YOKO TANEGUTI",
+        "schedule": "24M34",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "13",
+        "professor": "YEVSEY YEHOSHUA SOBOLEVSKY",
+        "schedule": "46T23",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "14",
+        "professor": "TAIS CALLIERO TOGNETTI",
+        "schedule": "35M12",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "MAT0031 - INTRODUCAO A ALGEBRA LINEAR",
+        "class_id": "15",
+        "professor": "MELISSA DE SOUSA LUIZ",
+        "schedule": "35T45",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0034 - ALGEBRA 1",
+        "class_id": "01",
+        "professor": "PAVEL ZALESSKI",
+        "schedule": "36M12",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0034 - ALGEBRA 1",
+        "class_id": "02",
+        "professor": "JEAN CARLOS DE AGUIAR LELIS",
+        "schedule": "36N12",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0034 - ALGEBRA 1",
+        "class_id": "03",
+        "professor": "THEO ALLAN DARN ZAPATA",
+        "schedule": "35M12",
+        "location": "ICC BT 027"
+    },
+    {
+        "subject": "MAT0038 - TEORIA DOS NÚMEROS 1",
+        "class_id": "01",
+        "professor": "DIEGO MARQUES FERREIRA",
+        "schedule": "35N12",
+        "location": "ICC ANF.14"
+    },
+    {
+        "subject": "MAT0038 - TEORIA DOS NÚMEROS 1",
+        "class_id": "02",
+        "professor": "HEMAR TEIXEIRA GODINHO",
+        "schedule": "35M34",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0039 - ALGEBRA LINEAR",
+        "class_id": "01",
+        "professor": "ALINE GOMES DA SILVA PINTO",
+        "schedule": "235T45",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "MAT0040 - ALGEBRA 2",
+        "class_id": "01",
+        "professor": "SHEILA CAMPOS CHAGAS",
+        "schedule": "35M12",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0045 - ANALISE 1",
+        "class_id": "01",
+        "professor": "CARLOS ALBERTO PEREIRA DOS SANTOS",
+        "schedule": "24M12",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0045 - ANALISE 1",
+        "class_id": "02",
+        "professor": "MIRELSON MARTINS FREITAS",
+        "schedule": "3N34 6N12",
+        "location": "ICC ASS 432/10"
+    },
+    {
+        "subject": "MAT0050 - GEOMETRIA DIFERENCIAL 1",
+        "class_id": "01",
+        "professor": "JOAO PAULO DOS SANTOS",
+        "schedule": "35T23",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0053 - CALCULO NUMERICO",
+        "class_id": "01",
+        "professor": "SAULO RODRIGO MEDRADO",
+        "schedule": "24M34",
+        "location": "BSA N A1 19/41"
+    },
+    {
+        "subject": "MAT0053 - CALCULO NUMERICO",
+        "class_id": "02",
+        "professor": "FLAVIA FERREIRA RAMOS ZAPATA",
+        "schedule": "35T45",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0053 - CALCULO NUMERICO",
+        "class_id": "03",
+        "professor": "FLAVIA FERREIRA RAMOS ZAPATA",
+        "schedule": "35T23",
+        "location": "ICC ANF. 6"
+    },
+    {
+        "subject": "MAT0053 - CALCULO NUMERICO",
+        "class_id": "04",
+        "professor": "JULIA MITSUNO KATO AIZA ALVAREZ",
+        "schedule": "24M12",
+        "location": "ICC ANF.14"
+    },
+    {
+        "subject": "MAT0053 - CALCULO NUMERICO",
+        "class_id": "05",
+        "professor": "JULIA MITSUNO KATO AIZA ALVAREZ",
+        "schedule": "35T23",
+        "location": "ICC ANF. 2"
+    },
+    {
+        "subject": "MAT0059 - METODOS MATEMÁTICOS DA FÍSICA 1",
+        "class_id": "01",
+        "professor": "ARY VASCONCELOS MEDINO",
+        "schedule": "246M34",
+        "location": "ICC ASS 433/10"
+    },
+    {
+        "subject": "MAT0060 - HISTORIA DA MATEMATICA",
+        "class_id": "01",
+        "professor": "THEO ALLAN DARN ZAPATA",
+        "schedule": "3T2345",
+        "location": "ICC ANF. 18"
+    },
+    {
+        "subject": "MAT0075 - CALCULO DE PROBABILIDADE 1",
+        "class_id": "01",
+        "professor": "LEANDRO MARTINS CIOLETTI",
+        "schedule": "26N12 4N34",
+        "location": "ICC ASS 439/11"
+    },
+    {
+        "subject": "MAT0075 - CALCULO DE PROBABILIDADE 1",
+        "class_id": "02",
+        "professor": "DANIELE DA SILVA BARATELA MARTINS NETO",
+        "schedule": "235M34",
+        "location": "ICC ASS 432/10"
+    },
+    {
+        "subject": "MAT0075 - CALCULO DE PROBABILIDADE 1",
+        "class_id": "03",
+        "professor": "EDUARDO ANTONIO DA SILVA",
+        "schedule": "235M34",
+        "location": "ICC ASS 439/11"
+    },
+    {
+        "subject": "MAT0076 - CALCULO DE PROBABILIDADE 2",
+        "class_id": "01",
+        "professor": "CATIA REGINA GONCALVES",
+        "schedule": "24M34",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0080 - INTRODUCAO A TEORIA DOS GRAFOS",
+        "class_id": "01",
+        "professor": "DANIELA AMORIM AMATO",
+        "schedule": "35T23",
+        "location": "ICC ASS 439/11"
+    },
+    {
+        "subject": "MAT0082 - ANALISE COMBINATORIA",
+        "class_id": "01",
+        "professor": "RAIMUNDO DE ARAUJO BASTOS JUNIOR",
+        "schedule": "24N12",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0087 - SEMINARIO TOPICOS ESPECIAIS",
+        "class_id": "01",
+        "professor": "ARY VASCONCELOS MEDINO",
+        "schedule": "4M5  4T1",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0087 - SEMINARIO TOPICOS ESPECIAIS",
+        "class_id": "02",
+        "professor": "LUIS HENRIQUE DE MIRANDA",
+        "schedule": "5M5  5T1",
+        "location": "ICC ASS 421/10"
+    },
+    {
+        "subject": "MAT0087 - SEMINARIO TOPICOS ESPECIAIS",
+        "class_id": "03",
+        "professor": "RUI SEIMETZ",
+        "schedule": "5N12",
+        "location": "ICC ANF. 5"
+    },
+    {
+        "subject": "MAT0087 - SEMINARIO TOPICOS ESPECIAIS",
+        "class_id": "04",
+        "professor": "MARCELO FERNANDES FURTADO",
+        "schedule": "2T45 3T23",
+        "location": "ICC ASS 415/10"
+    },
+    {
+        "subject": "MAT0106 - ANALISE 3",
+        "class_id": "01",
+        "professor": "LUIS HENRIQUE DE MIRANDA",
+        "schedule": "35M34",
+        "location": "ICC ASS 433/10"
+    },
+    {
+        "subject": "MAT0111 - GEOMETRIA 1",
+        "class_id": "01",
+        "professor": "GUY GREBOT",
+        "schedule": "24M12",
+        "location": "ICC ASS 402/10"
+    },
+    {
+        "subject": "MAT0114 - GEOMETRIA 2",
+        "class_id": "01",
+        "professor": "NILTON MOURA BARROSO NETO",
+        "schedule": "2N34 4N12",
+        "location": "ICC ASS 402/10"
+    },
+    {
+        "subject": "MAT0120 - INTRODUÇÃO À TEORIA DE MEDIDA E INTEGRAÇÃO",
+        "class_id": "01",
+        "professor": "ANDRE CALDAS DE SOUZA",
+        "schedule": "24M34",
+        "location": "ICC ASS 402/10"
+    },
+    {
+        "subject": "MAT0122 - ÁLGEBRA PARA O ENSINO 1",
+        "class_id": "01",
+        "professor": "LINEU DA COSTA ARAUJO NETO",
+        "schedule": "7T34  4N1234",
+        "location": "ICC ASS 451/10 LEMAT1"
+    },
+    {
+        "subject": "MAT0124 - REGÊNCIA 2",
+        "class_id": "01",
+        "professor": "REGINA DA SILVA PINA NEVES",
+        "schedule": "6M1234  7T1234",
+        "location": "ICC ASS 457/11 LEMAT2"
+    },
+    {
+        "subject": "MAT0129 - GEOMETRIA PARA O ENSINO 1",
+        "class_id": "01",
+        "professor": "RAQUEL CARNEIRO DORR",
+        "schedule": "7M34  4T2345",
+        "location": "ICC ASS 451/10 LEMAT1"
+    },
+    {
+        "subject": "MAT0136 - REGÊNCIA 1",
+        "class_id": "01",
+        "professor": "CLEYTON HERCULES GONTIJO",
+        "schedule": "7M345  7T1  5N1234",
+        "location": "ICC ASS 457/11 LEMAT2"
+    },
+    {
+        "subject": "MAT0141 - PRÁTICAS DE EXTENSÃO EM MATEMÁTICA 3",
+        "class_id": "01",
+        "professor": "RUI SEIMETZ",
+        "schedule": "7M34  5T2345",
+        "location": "ICC ASS 451/10 LEMAT1"
+    },
+    {
+        "subject": "MAT0142 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 1",
+        "class_id": "01",
+        "professor": "LUCAS CONQUE SECO FERREIRA",
+        "schedule": "2T1",
+        "location": ""
+    },
+    {
+        "subject": "MAT0142 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 1",
+        "class_id": "02",
+        "professor": "JOAO PAULO DOS SANTOS",
+        "schedule": "3T1",
+        "location": ""
+    },
+    {
+        "subject": "MAT0142 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 1",
+        "class_id": "03",
+        "professor": "DANIELE NANTES SOBRINHO",
+        "schedule": "3M5",
+        "location": ""
+    },
+    {
+        "subject": "MAT0143 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 2",
+        "class_id": "01",
+        "professor": "LUCAS CONQUE SECO FERREIRA",
+        "schedule": "2M5",
+        "location": ""
+    },
+    {
+        "subject": "MAT0143 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 2",
+        "class_id": "02",
+        "professor": "DANIELE NANTES SOBRINHO",
+        "schedule": "2T6",
+        "location": ""
+    },
+    {
+        "subject": "MAT0143 - INICIAÇÃO CIENTÍFICA EM MATEMÁTICA 2",
+        "class_id": "03",
+        "professor": "PEDRO ROITMAN",
+        "schedule": "3T6",
+        "location": ""
+    },
+    {
+        "subject": "MAT0163 - DIDÁTICA DA MATEMÁTICA",
+        "class_id": "01",
+        "professor": "CLEYTON HERCULES GONTIJO",
+        "schedule": "7T34  3N1234",
+        "location": "ICC ASS 451/10 LEMAT1"
+    },
+    {
+        "subject": "MAT0164 - CURRÍCULO E AVALIAÇÃO EM MATEMÁTICA",
+        "class_id": "01",
+        "professor": "REGINA DA SILVA PINA NEVES",
+        "schedule": "7M12  3T2345",
+        "location": "ICC ASS 451/10 LEMAT1"
+    },
+    {
+        "subject": "CIC0002 - FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "MARIA EMILIA MACHADO TELLES WALTER",
+        "schedule": "24T45",
+        "location": "PJC BT 077"
+    },
+    {
+        "subject": "CIC0002 - FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+        "class_id": "02",
+        "professor": "JORGE CARLOS LUCERO",
+        "schedule": "46M12",
+        "location": "PJC BT 060"
+    },
+    {
+        "subject": "CIC0002 - FUNDAMENTOS TEÓRICOS DA COMPUTAÇÃO",
+        "class_id": "03",
+        "professor": "MARIA EMILIA MACHADO TELLES WALTER",
+        "schedule": "24N34",
+        "location": "PJC BT 036"
+    },
+    {
+        "subject": "CIC0003 - INTRODUÇÃO AOS SISTEMAS COMPUTACIONAIS",
+        "class_id": "01",
+        "professor": "MARCUS VINICIUS LAMAR",
+        "schedule": "35T23",
+        "location": "PJC BT 061"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "01",
+        "professor": "JACIR LUIZ BORDIM",
+        "schedule": "235M12",
+        "location": "35M12(BSA N AT 19/41) 2M12(PJC BT 036)"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "02",
+        "professor": "PEDRO GARCIA FREITAS",
+        "schedule": "246M34",
+        "location": "6M34(BSA N AT 19/41) 24M34(BSA N AT 29/41)"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "03",
+        "professor": "CARLA DENISE CASTANHO",
+        "schedule": "235T45",
+        "location": "PJC BT 021"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "04",
+        "professor": "PEDRO GARCIA FREITAS",
+        "schedule": "2T45 5T2345",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "05",
+        "professor": "ANDRE COSTA DRUMMOND",
+        "schedule": "246T23",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "06",
+        "professor": "EDISON ISHIKAWA",
+        "schedule": "345N12",
+        "location": "45N12(BSA N AT 19/41) 3N12(PJC BT 060)"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "07",
+        "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+        "schedule": "2N12 4N1234",
+        "location": "4N1234(BSA S A1 16/37) 2N12(PJC BT 028)"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "08",
+        "professor": "LUCAS URSULINO BOAVENTURA",
+        "schedule": "4M5 7M1234  4T1",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "09",
+        "professor": "FABRICIO ATAIDES BRAZ",
+        "schedule": "35M5  3T1 5T145",
+        "location": "FCTE - Mocap / Mocap / S9"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "10",
+        "professor": "FABRICIO ATAIDES BRAZ",
+        "schedule": "35M12  2T45",
+        "location": "FCTE - S10 / S10 / S9"
+    },
+    {
+        "subject": "CIC0004 - ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES",
+        "class_id": "11",
+        "professor": "LUCAS URSULINO BOAVENTURA",
+        "schedule": "356M5  356T1",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "CIC0005 - FORMAÇÃO DOCENTE EM COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "JONATHAN ROSA MOREIRA",
+        "schedule": "35N34",
+        "location": "BSA N AT 09/41"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "3N12 4N34",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "02",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "3N12 4N34",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "03",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "46T45",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "04",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "3T23 6T45",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "05",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "3N12 4N34",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "06",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "46T45",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "07",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "35T23",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "08",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "4T45 5T23",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "09",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "4T45 5T23",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "10",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "3N12 4N34",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "11",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "3T23 6T45",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0007 - INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO",
+        "class_id": "12",
+        "professor": "CAMILO CHANG DOREA",
+        "schedule": "35T23",
+        "location": "BSA N A1 22/4"
+    },
+    {
+        "subject": "CIC0087 - TOPICOS AVANCADOS EM COMPUTADORES",
+        "class_id": "01",
+        "professor": "JOSE EDIL GUIMARAES DE MEDEIROS",
+        "schedule": "3M345  3T1",
+        "location": "PJC BT 020"
+    },
+    {
+        "subject": "CIC0087 - TOPICOS AVANCADOS EM COMPUTADORES",
+        "class_id": "02",
+        "professor": "VANDER RAMOS ALVES",
+        "schedule": "24M34",
+        "location": "LINF 05"
+    },
+    {
+        "subject": "CIC0087 - TOPICOS AVANCADOS EM COMPUTADORES",
+        "class_id": "03",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "4N1234",
+        "location": "a definir"
+    },
+    {
+        "subject": "CIC0087 - TOPICOS AVANCADOS EM COMPUTADORES",
+        "class_id": "04",
+        "professor": "ROBERTO VITO RODRIGUES FILHO",
+        "schedule": "6T45  6N12",
+        "location": "BSA N A1 07/19"
+    },
+    {
+        "subject": "CIC0087 - TOPICOS AVANCADOS EM COMPUTADORES",
+        "class_id": "05",
+        "professor": "CARLA DENISE CASTANHO",
+        "schedule": "46M5  46T1",
+        "location": "a definir"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "01",
+        "professor": "ANDRE COSTA DRUMMOND",
+        "schedule": "35T23",
+        "location": "BSA S A1 16/37"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "02",
+        "professor": "EDUARDO ADILIO PELINSON ALCHIERI",
+        "schedule": "46M34",
+        "location": "6M34(BSA S A1 16/37) 4M34(PJC BT 101)"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "03",
+        "professor": "MARCOS FAGUNDES CAETANO",
+        "schedule": "35M34",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "04",
+        "professor": "ELIZA HELENA AREIAS GOMES",
+        "schedule": "35N12",
+        "location": "BSA S A1 16/37"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "05",
+        "professor": "ELIZA HELENA AREIAS GOMES",
+        "schedule": "35N34",
+        "location": "BSA S A1 16/37"
+    },
+    {
+        "subject": "CIC0090 - ESTRUTURAS DE DADOS",
+        "class_id": "06",
+        "professor": "GUILHERME NOVAES RAMOS",
+        "schedule": "24T23",
+        "location": "BSA N A1 07/08"
+    },
+    {
+        "subject": "CIC0093 - LINGUAGENS DE PROGRAMACAO",
+        "class_id": "01",
+        "professor": "VANDER RAMOS ALVES",
+        "schedule": "24M12",
+        "location": "BSA N A1 60/41"
+    },
+    {
+        "subject": "CIC0093 - LINGUAGENS DE PROGRAMACAO",
+        "class_id": "02",
+        "professor": "MARCELO LADEIRA",
+        "schedule": "46N12",
+        "location": "BSA S BT 54/13"
+    },
+    {
+        "subject": "CIC0095 - TEORIA DA COMPUTACAO",
+        "class_id": "01",
+        "professor": "MARIA EMILIA MACHADO TELLES WALTER",
+        "schedule": "24N12",
+        "location": "PJC BT 101"
+    },
+    {
+        "subject": "CIC0097 - BANCOS DE DADOS",
+        "class_id": "01",
+        "professor": "MARISTELA TERTO DE HOLANDA",
+        "schedule": "35T23",
+        "location": "3T23(BSA N AT 19/41) 5T23(PJC BT 012)"
+    },
+    {
+        "subject": "CIC0097 - BANCOS DE DADOS",
+        "class_id": "02",
+        "professor": "MARISTELA TERTO DE HOLANDA",
+        "schedule": "35N12",
+        "location": "5N12(PAT AT 045) 3N12(BSA N AT 19/41)"
+    },
+    {
+        "subject": "CIC0099 - ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
+        "class_id": "01",
+        "professor": "MARCUS VINICIUS LAMAR",
+        "schedule": "24T23",
+        "location": "PJC BT 092"
+    },
+    {
+        "subject": "CIC0099 - ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
+        "class_id": "02",
+        "professor": "RICARDO PEZZUOL JACOBI",
+        "schedule": "35T23",
+        "location": "PJC BT 092"
+    },
+    {
+        "subject": "CIC0099 - ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES",
+        "class_id": "03",
+        "professor": "FLAVIO DE BARROS VIDAL",
+        "schedule": "35M34",
+        "location": "PJC BT 085"
+    },
+    {
+        "subject": "CIC0101 - SISTEMAS DE INFORMACAO",
+        "class_id": "01",
+        "professor": "GENAINA NUNES RODRIGUES",
+        "schedule": "35M34",
+        "location": "PJC BT 077"
+    },
+    {
+        "subject": "CIC0101 - SISTEMAS DE INFORMACAO",
+        "class_id": "02",
+        "professor": "FERNANDA LIMA",
+        "schedule": "35N12",
+        "location": "ICC ANF.17"
+    },
+    {
+        "subject": "CIC0104 - SOFTWARE BASICO",
+        "class_id": "01",
+        "professor": "MARCELO LADEIRA",
+        "schedule": "24M34",
+        "location": "PAT AT 132"
+    },
+    {
+        "subject": "CIC0104 - SOFTWARE BASICO",
+        "class_id": "02",
+        "professor": "BRUNO LUIGGI MACCHIAVELLO ESPINOZA",
+        "schedule": "24T23",
+        "location": "PJC BT 060"
+    },
+    {
+        "subject": "CIC0105 - ENGENHARIA DE SOFTWARE",
+        "class_id": "01",
+        "professor": "FERNANDO ANTONIO DE ARAUJO CHACON DE ALBUQUERQUE",
+        "schedule": "24N34",
+        "location": "PAT AT 117"
+    },
+    {
+        "subject": "CIC0105 - ENGENHARIA DE SOFTWARE",
+        "class_id": "02",
+        "professor": "GENAINA NUNES RODRIGUES",
+        "schedule": "356M12",
+        "location": "3M12(PJC BT 140) 56M12(PJC BT 019)"
+    },
+    {
+        "subject": "CIC0108 - SISTEMAS OPERACIONAIS",
+        "class_id": "01",
+        "professor": "ALETEIA PATRICIA FAVACHO DE ARAUJO VON PAUMGARTTEN",
+        "schedule": "246M12",
+        "location": "PJC BT 053"
+    },
+    {
+        "subject": "CIC0124 - REDES DE COMPUTADORES",
+        "class_id": "01",
+        "professor": "PRISCILA AMERICA SOLIS MENDEZ BARRETO",
+        "schedule": "24T23",
+        "location": "PAT AT 037"
+    },
+    {
+        "subject": "CIC0124 - REDES DE COMPUTADORES",
+        "class_id": "02",
+        "professor": "MARCOS FAGUNDES CAETANO",
+        "schedule": "35M12",
+        "location": "PJC BT 061"
+    },
+    {
+        "subject": "CIC0124 - REDES DE COMPUTADORES",
+        "class_id": "03",
+        "professor": "ROBERTO VITO RODRIGUES FILHO",
+        "schedule": "35N12",
+        "location": "PJC BT 036"
+    },
+    {
+        "subject": "CIC0130 - INTRODUÇÃO AOS SISTEMAS EMBARCADOS",
+        "class_id": "01",
+        "professor": "RICARDO PEZZUOL JACOBI",
+        "schedule": "35M34",
+        "location": "5M34(ICC BT 012/63) 3M34(ICC AT 104)"
+    },
+    {
+        "subject": "CIC0135 - INTRODUCAO A INTELIGENCIA ARTIFICIAL",
+        "class_id": "01",
+        "professor": "DIBIO LEANDRO BORGES",
+        "schedule": "35T45",
+        "location": "BSA N AT 39/41"
+    },
+    {
+        "subject": "CIC0135 - INTRODUCAO A INTELIGENCIA ARTIFICIAL",
+        "class_id": "02",
+        "professor": "LI WEIGANG",
+        "schedule": "24T23",
+        "location": "2T23(BSA S A1 16/37) 4T23(BSA S A1 16/30)"
+    },
+    {
+        "subject": "CIC0142 - INFORMATICA E SOCIEDADE",
+        "class_id": "01",
+        "professor": "LETICIA LOPES LEITE",
+        "schedule": "6T23",
+        "location": "PJC BT 020"
+    },
+    {
+        "subject": "CIC0152 - INTRODUCAO A MICROINFORMATICA",
+        "class_id": "01",
+        "professor": "ELIZA HELENA AREIAS GOMES",
+        "schedule": "35M12",
+        "location": "BSA S B2 54/10"
+    },
+    {
+        "subject": "CIC0158 - INFORMATICA APLICADA A EDUCACAO",
+        "class_id": "01",
+        "professor": "GERMANA MENEZES DA NOBREGA",
+        "schedule": "35N12",
+        "location": "PJC BT 093"
+    },
+    {
+        "subject": "CIC0161 - AUTÔMATOS E COMPUTABILIDADE",
+        "class_id": "01",
+        "professor": "JORGE CARLOS LUCERO",
+        "schedule": "245T45",
+        "location": "PAT AT 052"
+    },
+    {
+        "subject": "CIC0169 - PROGRAMAÇÃO COMPETITIVA",
+        "class_id": "01",
+        "professor": "DANIEL DE PAULA PORTO",
+        "schedule": "24M34",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0176 - INTRODUCAO AO PROCESSAMENTO DE IMAGENS",
+        "class_id": "01",
+        "professor": "BRUNO LUIGGI MACCHIAVELLO ESPINOZA",
+        "schedule": "24T45",
+        "location": "PJC BT 100"
+    },
+    {
+        "subject": "CIC0177 - ARQUITETURA DE PROCESSADORES DIGITAIS",
+        "class_id": "01",
+        "professor": "WILSON HENRIQUE VENEZIANO",
+        "schedule": "35N12",
+        "location": "PJC BT 085"
+    },
+    {
+        "subject": "CIC0182 - LÓGICA COMPUTACIONAL 1",
+        "class_id": "01",
+        "professor": "MAURICIO AYALA RINCON",
+        "schedule": "24T45",
+        "location": "PJC BT 061"
+    },
+    {
+        "subject": "CIC0182 - LÓGICA COMPUTACIONAL 1",
+        "class_id": "02",
+        "professor": "FLAVIO LEONARDO CAVALCANTI DE MOURA",
+        "schedule": "24N34",
+        "location": "PJC BT 012"
+    },
+    {
+        "subject": "CIC0189 - PROJETO E ANÁLISE DE ALGORITMOS",
+        "class_id": "01",
+        "professor": "JAN MENDONCA CORREA",
+        "schedule": "24T23",
+        "location": "PAT AT 045"
+    },
+    {
+        "subject": "CIC0189 - PROJETO E ANÁLISE DE ALGORITMOS",
+        "class_id": "02",
+        "professor": "FLAVIO LEONARDO CAVALCANTI DE MOURA",
+        "schedule": "24N12",
+        "location": "PAT AT 132"
+    },
+    {
+        "subject": "CIC0191 - INTRODUÇÃO AO DESENVOLVIMENTO DE JOGOS",
+        "class_id": "01",
+        "professor": "CARLA DENISE CASTANHO",
+        "schedule": "6T2345",
+        "location": "PAT AT 061"
+    },
+    {
+        "subject": "CIC0197 - TECNICAS DE PROGRAMAÇÃO 1",
+        "class_id": "01",
+        "professor": "FERNANDO ANTONIO DE ARAUJO CHACON DE ALBUQUERQUE",
+        "schedule": "35N34",
+        "location": "PAT AT 076"
+    },
+    {
+        "subject": "CIC0197 - TECNICAS DE PROGRAMAÇÃO 1",
+        "class_id": "02",
+        "professor": "FERNANDO ANTONIO DE ARAUJO CHACON DE ALBUQUERQUE",
+        "schedule": "35M34",
+        "location": "PAT AT 156"
+    },
+    {
+        "subject": "CIC0197 - TECNICAS DE PROGRAMAÇÃO 1",
+        "class_id": "03",
+        "professor": "ROBERTA BARBOSA OLIVEIRA",
+        "schedule": "35M34",
+        "location": "PJC BT 133"
+    },
+    {
+        "subject": "CIC0198 - TECNICAS DE PROGRAMAÇÃO 2",
+        "class_id": "01",
+        "professor": "DANIEL DE PAULA PORTO",
+        "schedule": "24M12",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0198 - TECNICAS DE PROGRAMAÇÃO 2",
+        "class_id": "02",
+        "professor": "JAN MENDONCA CORREA",
+        "schedule": "24T45",
+        "location": "PAT AT 045"
+    },
+    {
+        "subject": "CIC0199 - TEORIA E APLICAÇÃO DE GRAFOS",
+        "class_id": "01",
+        "professor": "DIBIO LEANDRO BORGES",
+        "schedule": "35T23",
+        "location": "BSA N A1 49/41"
+    },
+    {
+        "subject": "CIC0200 - METODOLOGIA CIENTÍFICA",
+        "class_id": "01",
+        "professor": "RICARDO LOPES DE QUEIROZ",
+        "schedule": "6M34",
+        "location": "PAT AT 061"
+    },
+    {
+        "subject": "CIC0201 - SEGURANÇA COMPUTACIONAL",
+        "class_id": "01",
+        "professor": "PRISCILA AMERICA SOLIS MENDEZ BARRETO",
+        "schedule": "35M34",
+        "location": "PJC BT 061"
+    },
+    {
+        "subject": "CIC0201 - SEGURANÇA COMPUTACIONAL",
+        "class_id": "02",
+        "professor": "ROBERTO VITO RODRIGUES FILHO",
+        "schedule": "24N12",
+        "location": "4N12(PAT AT 125) 2N12(BSA N AT 19/41)"
+    },
+    {
+        "subject": "CIC0202 - PROGRAMAÇÃO CONCORRENTE",
+        "class_id": "01",
+        "professor": "EDUARDO ADILIO PELINSON ALCHIERI",
+        "schedule": "35M34",
+        "location": "BSA S A1 16/30"
+    },
+    {
+        "subject": "CIC0203 - COMPUTAÇÃO EXPERIMENTAL",
+        "class_id": "01",
+        "professor": "EDNA DIAS CANEDO",
+        "schedule": "35T23",
+        "location": "PJC BT 125"
+    },
+    {
+        "subject": "CIC0204 - COMPILADORES",
+        "class_id": "01",
+        "professor": "GERMANA MENEZES DA NOBREGA",
+        "schedule": "24T45",
+        "location": "PJC BT 117"
+    },
+    {
+        "subject": "CIC0205 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+        "class_id": "01",
+        "professor": "ALETEIA PATRICIA FAVACHO DE ARAUJO VON PAUMGARTTEN",
+        "schedule": "24M34",
+        "location": "PJC BT 029"
+    },
+    {
+        "subject": "CIC0206 - MÉTODOS DE PESQUISA NA LICENCIATURA EM COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "JORGE HENRIQUE CABRAL FERNANDES",
+        "schedule": "2N34",
+        "location": "BSA N A1 07/08"
+    },
+    {
+        "subject": "CIC0207 - PROJETO INTERDISCIPLINAR DE LICENCIATURA EM COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "LETICIA LOPES LEITE",
+        "schedule": "7M12  6N12",
+        "location": "PAT AT 036"
+    },
+    {
+        "subject": "CIC0208 - PRODUÇÃO DE MATERIAL DIDÁTICO",
+        "class_id": "01",
+        "professor": "JONATHAN ROSA MOREIRA",
+        "schedule": "2T6  2N1234",
+        "location": "PJC BT 029"
+    },
+    {
+        "subject": "CIC0209 - SUPERVISÃO DE PRODUÇÃO DE MATERIAL DIDÁTICO",
+        "class_id": "01",
+        "professor": "JONATHAN ROSA MOREIRA",
+        "schedule": "5N12",
+        "location": "PJC BT 021"
+    },
+    {
+        "subject": "CIC0212 - SUPERVISÃO DE PRÁTICA PEDAGÓGICA EM COMPUTAÇÃO 1",
+        "class_id": "01",
+        "professor": "MARIA DE FATIMA RAMOS BRANDAO",
+        "schedule": "6N12",
+        "location": "PJC BT 021"
+    },
+    {
+        "subject": "CIC0213 - SUPERVISÃO DE PRÁTICA PEDAGÓGICA EM COMPUTAÇÃO 2",
+        "class_id": "01",
+        "professor": "JONATHAN ROSA MOREIRA",
+        "schedule": "6N12",
+        "location": "PJC BT 029"
+    },
+    {
+        "subject": "CIC0218 - SUPERVISÃO DE ESTÁGIO EM LICENCIATURA EM COMPUTAÇÃO 1",
+        "class_id": "01",
+        "professor": "MARIA DE FATIMA RAMOS BRANDAO",
+        "schedule": "6N34",
+        "location": "PJC BT 021"
+    },
+    {
+        "subject": "CIC0220 - SUPERVISÃO DE ESTÁGIO  EM LICENCIATURA EM COMPUTAÇÃO 2",
+        "class_id": "01",
+        "professor": "JONATHAN ROSA MOREIRA",
+        "schedule": "6N34",
+        "location": "PJC BT 069"
+    },
+    {
+        "subject": "CIC0222 - SUPERVISÃO DE ESTÁGIO  EM LICENCIATURA EM COMPUTAÇÃO 3",
+        "class_id": "01",
+        "professor": "LETICIA LOPES LEITE",
+        "schedule": "5N34",
+        "location": "PJC BT 021"
+    },
+    {
+        "subject": "CIC0225 - INTRODUÇÃO A SISTEMAS OPERACIONAIS",
+        "class_id": "01",
+        "professor": "ALBA CRISTINA MAGALHAES ALVES DE MELO",
+        "schedule": "24N12",
+        "location": "PJC BT 019"
+    },
+    {
+        "subject": "CIC0226 - DESENVOLVIMENTO DE APLICATIVOS",
+        "class_id": "01",
+        "professor": "WILSON HENRIQUE VENEZIANO",
+        "schedule": "35N34",
+        "location": "PJC BT 012"
+    },
+    {
+        "subject": "CIC0229 - CIRCUITOS LÓGICOS",
+        "class_id": "01",
+        "professor": "CARLA MARIA CHAGAS E CAVALCANTE KOIKE",
+        "schedule": "24T45",
+        "location": "PJC BT 053"
+    },
+    {
+        "subject": "CIC0229 - CIRCUITOS LÓGICOS",
+        "class_id": "02",
+        "professor": "MARCELO GRANDI MANDELLI",
+        "schedule": "24M34",
+        "location": "PJC BT 076"
+    },
+    {
+        "subject": "CIC0231 - LABORATÓRIO DE CIRCUITOS LÓGICOS",
+        "class_id": "01",
+        "professor": "CARLA MARIA CHAGAS E CAVALCANTE KOIKE",
+        "schedule": "5T45",
+        "location": "LINF 05"
+    },
+    {
+        "subject": "CIC0231 - LABORATÓRIO DE CIRCUITOS LÓGICOS",
+        "class_id": "02",
+        "professor": "CARLA MARIA CHAGAS E CAVALCANTE KOIKE",
+        "schedule": "6T23",
+        "location": "LINF 05"
+    },
+    {
+        "subject": "CIC0231 - LABORATÓRIO DE CIRCUITOS LÓGICOS",
+        "class_id": "03",
+        "professor": "MARCELO GRANDI MANDELLI",
+        "schedule": "6M34",
+        "location": "LINF 05"
+    },
+    {
+        "subject": "CIC0231 - LABORATÓRIO DE CIRCUITOS LÓGICOS",
+        "class_id": "04",
+        "professor": "MARCELO GRANDI MANDELLI",
+        "schedule": "6M12",
+        "location": "LINF 05"
+    },
+    {
+        "subject": "CIC0235 - TELEINFORMÁTICA E REDES 1",
+        "class_id": "01",
+        "professor": "MARCELO ANTONIO MAROTTA",
+        "schedule": "35M12",
+        "location": "PJC BT 077"
+    },
+    {
+        "subject": "CIC0236 - TELEINFORMÁTICA E REDES 2",
+        "class_id": "01",
+        "professor": "JACIR LUIZ BORDIM",
+        "schedule": "35M34",
+        "location": "PJC BT 053"
+    },
+    {
+        "subject": "CIC0247 - INTRODUÇÃO AO AMBIENTE UNIVERSITÁRIO NA COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "MARCELO GRANDI MANDELLI",
+        "schedule": "4T4",
+        "location": "BSA N A1 07/08"
+    },
+    {
+        "subject": "CIC0248 - SISTEMAS DE TEMPO REAL",
+        "class_id": "01",
+        "professor": "FLAVIO DE BARROS VIDAL",
+        "schedule": "46M34",
+        "location": "PJC BT 069"
+    },
+    {
+        "subject": "CIC0256 - PRÁTICA EXTENSIONISTA EM COMPUTAÇÃO A",
+        "class_id": "01",
+        "professor": "LETICIA LOPES LEITE",
+        "schedule": "6T456  6N1",
+        "location": "BSA N AT 19/41"
+    },
+    {
+        "subject": "CIC0290 - INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO",
+        "class_id": "01",
+        "professor": "GUILHERME NOVAES RAMOS",
+        "schedule": "2T45",
+        "location": "BSA N A1 60/09"
+    },
+    {
+        "subject": "IFD0001 - PRÁTICA DE APOIO DA FÍSICA 1- 1",
+        "class_id": "01",
+        "professor": "NADIA MARIA DE LIZ KOCHE",
+        "schedule": "4M5  4T1",
+        "location": "Laboratório de Física 2 Experimental"
+    },
+    {
+        "subject": "IFD0004 - FÍSICA ZERO",
+        "class_id": "01",
+        "professor": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO",
+        "schedule": "3M5  3T1",
+        "location": "Auditorio do IF"
+    },
+    {
+        "subject": "IFD0004 - FÍSICA ZERO",
+        "class_id": "02",
+        "professor": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO",
+        "schedule": "23T6",
+        "location": "Auditorio do IF"
+    },
+    {
+        "subject": "IFD0005 - FÍSICA TEÓRICA PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "01",
+        "professor": "ADRIANA PEREIRA IBALDO",
+        "schedule": "35N12",
+        "location": "ICC BT 504"
+    },
+    {
+        "subject": "IFD0005 - FÍSICA TEÓRICA PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "02",
+        "professor": "ANNIBAL DIAS DE FIGUEIREDO NETO",
+        "schedule": "35T45",
+        "location": "ICC ANF.12"
+    },
+    {
+        "subject": "IFD0005 - FÍSICA TEÓRICA PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "03",
+        "professor": "GALINA GULIS",
+        "schedule": "35T23",
+        "location": "ICC ANF.11"
+    },
+    {
+        "subject": "IFD0006 - FÍSICA EXPERIMENTAL PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "01",
+        "professor": "GALINA GULIS",
+        "schedule": "3T45",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0006 - FÍSICA EXPERIMENTAL PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "02",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "2M12",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0006 - FÍSICA EXPERIMENTAL PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "03",
+        "professor": "LEANDER EDWARD MICHELS BRITO MIRANDA",
+        "schedule": "2T23",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0006 - FÍSICA EXPERIMENTAL PARA CIÊNCIAS AGRÁRIAS",
+        "class_id": "04",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "2T23",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0010 - MÉTODOS DA FÍSICA EXPERIMENTAL",
+        "class_id": "01",
+        "professor": "NADIA MARIA DE LIZ KOCHE",
+        "schedule": "4T2345",
+        "location": "Laboratório de Física 2 Experimental"
+    },
+    {
+        "subject": "IFD0010 - MÉTODOS DA FÍSICA EXPERIMENTAL",
+        "class_id": "02",
+        "professor": "LETICIA GONCALVES NUNES COELHO",
+        "schedule": "2T2345",
+        "location": "Laboratório de Física 2 Experimental"
+    },
+    {
+        "subject": "IFD0010 - MÉTODOS DA FÍSICA EXPERIMENTAL",
+        "class_id": "03",
+        "professor": "VINICIUS DE ABREU OLIVEIRA",
+        "schedule": "6N1234",
+        "location": "Laboratório de Física 2 Experimental"
+    },
+    {
+        "subject": "IFD0011 - FUNDAMENTOS MATEMÁTICOS DA FÍSICA A",
+        "class_id": "01",
+        "professor": "FRANK EDUARDO DA SILVA STEINHOFF",
+        "schedule": "35M34",
+        "location": "ICC BT 006"
+    },
+    {
+        "subject": "IFD0012 - FUNDAMENTOS MATEMÁTICOS DA FÍSICA B",
+        "class_id": "01",
+        "professor": "CAROLINA MATTE GREGORY",
+        "schedule": "35M34",
+        "location": "ICC B1 244"
+    },
+    {
+        "subject": "IFD0013 - ONDAS, ÓPTICA E TERMODINÂMICA",
+        "class_id": "01",
+        "professor": "TIAGO DE SOUSA ARAUJO CASSIANO",
+        "schedule": "246M34",
+        "location": "ICC B1 251"
+    },
+    {
+        "subject": "IFD0014 - LABORATÓRIO DE INSTRUMENTAÇÃO CIENTÍFICA A",
+        "class_id": "01",
+        "professor": "FERMIN FIDEL HERRERA ARAGON",
+        "schedule": "3T2345",
+        "location": "Módulo 09 ICC CSS216 - LAB ELETRO"
+    },
+    {
+        "subject": "IFD0014 - LABORATÓRIO DE INSTRUMENTAÇÃO CIENTÍFICA A",
+        "class_id": "02",
+        "professor": "JOSE ANDRE FILHO",
+        "schedule": "7M1234",
+        "location": "Módulo 09 ICC CSS216 - LAB ELETRO"
+    },
+    {
+        "subject": "IFD0015 - MECÂNICA CLÁSSICA A",
+        "class_id": "01",
+        "professor": "ARSEN ROBERT MELIKYAN",
+        "schedule": "24M12",
+        "location": "PAT AT 132"
+    },
+    {
+        "subject": "IFD0016 - LABORATÓRIO DE MECÂNICA",
+        "class_id": "01",
+        "professor": "LUIZ FERNANDO RONCARATTI JUNIOR",
+        "schedule": "2T2345",
+        "location": "Módulo 09 ICC CSS216 - LAB MECÂNICA"
+    },
+    {
+        "subject": "IFD0017 - FÍSICA MATEMÁTICA A",
+        "class_id": "01",
+        "professor": "ARSEN ROBERT MELIKYAN",
+        "schedule": "35M34",
+        "location": "PJC BT 101"
+    },
+    {
+        "subject": "IFD0018 - RELATIVIDADE E FÍSICA QUÂNTICA",
+        "class_id": "01",
+        "professor": "FABIO FERREIRA MONTEIRO",
+        "schedule": "246M34",
+        "location": "ICC AT- 157/8"
+    },
+    {
+        "subject": "IFD0019 - MECÂNICA CLÁSSICA B",
+        "class_id": "01",
+        "professor": "ANTONY MARCO MOTA POLITO",
+        "schedule": "24M12",
+        "location": "PAT AT 124"
+    },
+    {
+        "subject": "IFD0020 - MÉTODOS COMPUTACIONAIS A",
+        "class_id": "01",
+        "professor": "BERNARDO DE ASSUNCAO MELLO",
+        "schedule": "35M12",
+        "location": "LCC - Lab Cálculos Computacionais"
+    },
+    {
+        "subject": "IFD0021 - LABORATÓRIO DE FÍSICA MODERNA",
+        "class_id": "01",
+        "professor": "GERALDO JOSE DA SILVA",
+        "schedule": "6N1234",
+        "location": "Módulo 09 ICC CSS216 -LAB ÓPTICA"
+    },
+    {
+        "subject": "IFD0021 - LABORATÓRIO DE FÍSICA MODERNA",
+        "class_id": "02",
+        "professor": "SEBASTIAO WILLIAM DA SILVA",
+        "schedule": "4T2345",
+        "location": "Módulo 09 ICC CSS216"
+    },
+    {
+        "subject": "IFD0022 - LABORATÓRIO DE OSCILAÇÕES, ONDAS E FLUIDOS",
+        "class_id": "01",
+        "professor": "PEDRO AUGUSTO MATOS RODRIGUES",
+        "schedule": "5T2345",
+        "location": "Módulo 09 ICC CSS216 - LAB MECÂNICA"
+    },
+    {
+        "subject": "IFD0023 - FÍSICA MATEMÁTICA B",
+        "class_id": "01",
+        "professor": "ALEKSANDR NIKOLAIEVICH PINZUL",
+        "schedule": "35M34",
+        "location": "ICC B1 251"
+    },
+    {
+        "subject": "IFD0024 - MECÂNICA QUÂNTICA A",
+        "class_id": "01",
+        "professor": "MARCO CEZAR BARBOSA FERNANDES",
+        "schedule": "24M34",
+        "location": "PJC BT 100"
+    },
+    {
+        "subject": "IFD0025 - TEORIA ELETROMAGNÉTICA A",
+        "class_id": "01",
+        "professor": "ANNIBAL DIAS DE FIGUEIREDO NETO",
+        "schedule": "35M12",
+        "location": "BSA N A1 49/41"
+    },
+    {
+        "subject": "IFD0026 - LABORATÓRIO DE ELETROMAGNETISMO A",
+        "class_id": "01",
+        "professor": "GERALDO JOSE DA SILVA",
+        "schedule": "4T2345",
+        "location": "Módulo 09 ICC CSS216 - LAB ELETRO"
+    },
+    {
+        "subject": "IFD0027 - LABORATÓRIO DE TERMODINÂMCIA E FÍSICA ESTATÍSTICA",
+        "class_id": "01",
+        "professor": "JOSE ANTONIO HUAMANI COAQUIRA",
+        "schedule": "3T2345",
+        "location": "Módulo 09 Laboratório de Termodinâmica"
+    },
+    {
+        "subject": "IFD0029 - TEORIA ELETROMAGNÉTICA B",
+        "class_id": "01",
+        "professor": "CAIO CESAR HOLANDA RIBEIRO",
+        "schedule": "35M12",
+        "location": "ICC BT 012/63"
+    },
+    {
+        "subject": "IFD0030 - MECÂNICA QUÂNTICA B",
+        "class_id": "01",
+        "professor": "HELENA DE SOUZA BRAGANCA ROCHA",
+        "schedule": "246M34",
+        "location": "4M34(ICC AT 122) 6M34(PJC BT 133) 2M34(PJC BT 093)"
+    },
+    {
+        "subject": "IFD0031 - TERMODINÂMICA E FÍSICA ESTATÍSTICA",
+        "class_id": "01",
+        "professor": "PEDRO HENRIQUE DE OLIVEIRA NETO",
+        "schedule": "35M34",
+        "location": "ICC BT 552"
+    },
+    {
+        "subject": "IFD0037 - LABORATÓRIO DE INSTRUMENTAÇÃO CIENTÍFICA B",
+        "class_id": "01",
+        "professor": "PAULO EDUARDO NARCIZO DE SOUZA",
+        "schedule": "5T2345",
+        "location": "Laboratório de Eletromagnetismo – Módulo 09"
+    },
+    {
+        "subject": "IFD0046 - FÍSICA ATÔMICA E MOLECULAR A",
+        "class_id": "01",
+        "professor": "TIAGO DE SOUSA ARAUJO CASSIANO",
+        "schedule": "24T23",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0055 - ELETROMAGNETISMO",
+        "class_id": "01",
+        "professor": "PAULO SERGIO DA SILVA CALDAS",
+        "schedule": "246M34",
+        "location": "24M34(BSA S B2 47/10) 6M34(BSA S B2 54/10)"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "01",
+        "professor": "ALEXANDRE SILVA SANTOS",
+        "schedule": "6T23",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "02",
+        "professor": "RAPHAEL MATOZO TROMER",
+        "schedule": "35M5",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "03",
+        "professor": "TIAGO DE SOUSA ARAUJO CASSIANO",
+        "schedule": "4N12",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "04",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "2M5  2T1",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "05",
+        "professor": "HELENA DE SOUZA BRAGANCA ROCHA",
+        "schedule": "2T23",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "06",
+        "professor": "HELENA DE SOUZA BRAGANCA ROCHA",
+        "schedule": "6M12",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "07",
+        "professor": "OLAVO LEOPOLDINO DA SILVA FILHO",
+        "schedule": "34M5",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "08",
+        "professor": "JORLANDIO FRANCISCO FELIX",
+        "schedule": "35M5",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "09",
+        "professor": "SEBASTIAO WILLIAM DA SILVA",
+        "schedule": "7M34",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "10",
+        "professor": "MARIANA PENNA LIMA VITENTI",
+        "schedule": "2M12",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "11",
+        "professor": "MARCELLO FERREIRA",
+        "schedule": "6M34",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "12",
+        "professor": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO",
+        "schedule": "5M12",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "13",
+        "professor": "CAIO CESAR HOLANDA RIBEIRO",
+        "schedule": "6T45",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "14",
+        "professor": "CAIO CESAR HOLANDA RIBEIRO",
+        "schedule": "6N12",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "15",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "5T23",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "16",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "5T45",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "17",
+        "professor": "OLAVO LEOPOLDINO DA SILVA FILHO",
+        "schedule": "4T45",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "18",
+        "professor": "LUIZ ANTONIO RIBEIRO JUNIOR",
+        "schedule": "2M34",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0057 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "19",
+        "professor": "ERONDINA AZEVEDO DE LIMA",
+        "schedule": "4T23",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "01",
+        "professor": "FRANK EDUARDO DA SILVA STEINHOFF",
+        "schedule": "345N12",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "02",
+        "professor": "BERNARDO DE ASSUNCAO MELLO",
+        "schedule": "35M345",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "03",
+        "professor": "MARIANA PENNA LIMA VITENTI",
+        "schedule": "246M34",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "04",
+        "professor": "MARIANA PENNA LIMA VITENTI",
+        "schedule": "235N12",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "05",
+        "professor": "LETICIA GONCALVES NUNES COELHO",
+        "schedule": "4T123456",
+        "location": "A DEFINIR"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "06",
+        "professor": "MARIANA PENNA LIMA VITENTI",
+        "schedule": "235T12",
+        "location": "A Definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "07",
+        "professor": "CAIO CESAR HOLANDA RIBEIRO",
+        "schedule": "246M5  246T1",
+        "location": "A DEFINIR"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "08",
+        "professor": "CAIO CESAR HOLANDA RIBEIRO",
+        "schedule": "3M34  2T2345",
+        "location": "A DEFINIR"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "09",
+        "professor": "VANESSA CARVALHO DE ANDRADE",
+        "schedule": "246M5  246T1",
+        "location": "Módulo 13"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "10",
+        "professor": "ARSEN ROBERT MELIKYAN",
+        "schedule": "3M12 6M1234",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "11",
+        "professor": "ARSEN ROBERT MELIKYAN",
+        "schedule": "2T2345 3T45",
+        "location": "A DEFINIR"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "12",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "234N12",
+        "location": "A DEFINIR"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "13",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "234N34",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0058 - TRABALHO DE CONCLUSÃO DE CURSO",
+        "class_id": "14",
+        "professor": "FELIPPE GUIMARAES MACIEL",
+        "schedule": "4T123456",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0059 - TÓPICOS ESPECIAIS A",
+        "class_id": "01",
+        "professor": "MARCIO SANTOS",
+        "schedule": "35T23",
+        "location": "PJC BT 053"
+    },
+    {
+        "subject": "IFD0060 - TÓPICOS ESPECIAIS B",
+        "class_id": "01",
+        "professor": "OLAVO LEOPOLDINO DA SILVA FILHO",
+        "schedule": "35M12",
+        "location": "CIF"
+    },
+    {
+        "subject": "IFD0061 - TÓPICOS ESPECIAIS C",
+        "class_id": "01",
+        "professor": "ARSEN ROBERT MELIKYAN",
+        "schedule": "46T23",
+        "location": "CIF"
+    },
+    {
+        "subject": "IFD0062 - TÓPICOS ESPECIAIS D",
+        "class_id": "01",
+        "professor": "MARIANA PENNA LIMA VITENTI",
+        "schedule": "4T2345",
+        "location": "ICC BT 504"
+    },
+    {
+        "subject": "IFD0069 - MECÂNICA",
+        "class_id": "01",
+        "professor": "NATHANN TEIXEIRA RODRIGUES",
+        "schedule": "246M34",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "IFD0122 - FISICA NUCLEAR",
+        "class_id": "01",
+        "professor": "ALEXANDRE DODONOV",
+        "schedule": "24T23",
+        "location": "CIF"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "01",
+        "professor": "JEROME DEPEYROT",
+        "schedule": "35T23",
+        "location": "BSA S B1 34/10"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "03",
+        "professor": "TARCISIO MARCIANO DA ROCHA FILHO",
+        "schedule": "2N34 4N12",
+        "location": "BSA S B1 19/10"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "04",
+        "professor": "ANDRE LUIZ ALMEIDA PENNA",
+        "schedule": "46M34",
+        "location": "BSA S B1 34/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "05",
+        "professor": "ALESSANDRA FERREIRA ALBERNAZ",
+        "schedule": "35M12",
+        "location": "BSA S BT 34/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "06",
+        "professor": "CLODOALDO RODRIGUES DA COSTA JUNIOR",
+        "schedule": "46M34",
+        "location": "4M34(ICC ANF.17) 6M34(ICC ANF.13)"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "07",
+        "professor": "JOSE FRANCISCO DA ROCHA NETO",
+        "schedule": "35M12",
+        "location": "BSA S B1 54/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "08",
+        "professor": "RAFAEL BESSE",
+        "schedule": "24T45",
+        "location": "BSA S BT 34/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "09",
+        "professor": "JONAS PEDRO PEREIRA",
+        "schedule": "24T23",
+        "location": "BSA S BT 11/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "10",
+        "professor": "NATHANN TEIXEIRA RODRIGUES",
+        "schedule": "24M12",
+        "location": "BSA S BT 26/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "11",
+        "professor": "HELENA DE SOUZA BRAGANCA ROCHA",
+        "schedule": "24M12",
+        "location": "BSA S BT 11/13"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "12",
+        "professor": "CLODOALDO RODRIGUES DA COSTA JUNIOR",
+        "schedule": "35M12",
+        "location": "ICC ANF.17"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "13",
+        "professor": "LINDOMAR BOMFIM DE CARVALHO DE JESUS",
+        "schedule": "35M34",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "14",
+        "professor": "JEROME DEPEYROT",
+        "schedule": "35T45",
+        "location": "BSA N A1 19/41"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "15",
+        "professor": "CAROLINA MATTE GREGORY",
+        "schedule": "35M12",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "16",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "26T45",
+        "location": "FCTE - S4/S2"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "17",
+        "professor": "JONAS PEDRO PEREIRA",
+        "schedule": "2N34 4N12",
+        "location": "BSA N AT 29/41"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "18",
+        "professor": "RAFAEL MORGADO SILVA",
+        "schedule": "24M12",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "IFD0171 - FISICA 1",
+        "class_id": "19",
+        "professor": "WYTLER CORDEIRO DOS SANTOS",
+        "schedule": "35T45",
+        "location": "FCTE - I3"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "01",
+        "professor": "EBERTH DE ALMEIDA CORREA",
+        "schedule": "3M34",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "02",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "2T23",
+        "location": "FCTE- LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "03",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "5M34",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "04",
+        "professor": "WYTLER CORDEIRO DOS SANTOS",
+        "schedule": "3T23",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "05",
+        "professor": "RAFAEL MORGADO SILVA",
+        "schedule": "2M34",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "06",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "6T23",
+        "location": "FCTE- LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "07",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "5T45",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "08",
+        "professor": "WYTLER CORDEIRO DOS SANTOS",
+        "schedule": "5T23",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "09",
+        "professor": "RAFAEL MORGADO SILVA",
+        "schedule": "4M34",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "10",
+        "professor": "MARCIO SANTOS",
+        "schedule": "5M34",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "11",
+        "professor": "FABIO LUIS DE OLIVEIRA PAULA",
+        "schedule": "2M34",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "12",
+        "professor": "NILO MAKIUCHI",
+        "schedule": "5T45",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "13",
+        "professor": "JOSE EDUARDO MARTINS",
+        "schedule": "4M12",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "14",
+        "professor": "JOSE ANDRE FILHO",
+        "schedule": "4T23",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "15",
+        "professor": "ALESSANDRA FERREIRA ALBERNAZ",
+        "schedule": "4M34",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "16",
+        "professor": "ALESSANDRA FERREIRA ALBERNAZ",
+        "schedule": "2M34",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "17",
+        "professor": "DEMETRIO ANTONIO DA SILVA FILHO",
+        "schedule": "6M12",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "18",
+        "professor": "LEONARDO LUIZ E CASTRO",
+        "schedule": "6T45",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "19",
+        "professor": "NILO MAKIUCHI",
+        "schedule": "7M34",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "20",
+        "professor": "JOSE ANDRE FILHO",
+        "schedule": "4M12",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "21",
+        "professor": "MARCIO SANTOS",
+        "schedule": "3M12",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "22",
+        "professor": "LEONARDO LUIZ E CASTRO",
+        "schedule": "4T23",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "23",
+        "professor": "ALEXANDRE SILVA SANTOS",
+        "schedule": "6M12",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "24",
+        "professor": "FABIO LUIS DE OLIVEIRA PAULA",
+        "schedule": "3T23",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "25",
+        "professor": "JOSE ANDRE FILHO",
+        "schedule": "4N34",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "26",
+        "professor": "DEMETRIO ANTONIO DA SILVA FILHO",
+        "schedule": "6M34",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "27",
+        "professor": "JOSE EDUARDO MARTINS",
+        "schedule": "3T23",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "28",
+        "professor": "MARCO ANTONIO RODRIGUEZ MARTINEZ",
+        "schedule": "4N34",
+        "location": "LAB FIS 1A -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "29",
+        "professor": "ALEXANDRE SILVA SANTOS",
+        "schedule": "6M34",
+        "location": "LAB FIS 1B -IF"
+    },
+    {
+        "subject": "IFD0173 - FISICA 1 EXPERIMENTAL",
+        "class_id": "30",
+        "professor": "RENDISLEY ARISTOTELES DOS SANTOS PAIVA",
+        "schedule": "5M12",
+        "location": "FCTE - LAB FÍSICA 1"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "01",
+        "professor": "ANTONY MARCO MOTA POLITO",
+        "schedule": "35M34",
+        "location": "BSA S BT 19/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "02",
+        "professor": "LESLAW ADAM RACHWAL",
+        "schedule": "35T45",
+        "location": "BSA S B1 34/10"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "03",
+        "professor": "FRANK EDUARDO DA SILVA STEINHOFF",
+        "schedule": "24T23",
+        "location": "BSA S BT 34/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "04",
+        "professor": "ALEXANDRY MOREIRA ALVES PINTO",
+        "schedule": "24M12",
+        "location": "BSA S B2 47/10"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "05",
+        "professor": "JOSE FRANCISCO DA ROCHA NETO",
+        "schedule": "46M34",
+        "location": "BSA S BT 11/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "06",
+        "professor": "DANIEL MULLER",
+        "schedule": "35M12",
+        "location": "BSA S B1 11/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "07",
+        "professor": "DANIEL MULLER",
+        "schedule": "24M12",
+        "location": "BSA S B1 47/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "08",
+        "professor": "FRANK EDUARDO DA SILVA STEINHOFF",
+        "schedule": "24T23",
+        "location": "BSA S BT 34/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "09",
+        "professor": "LESLAW ADAM RACHWAL",
+        "schedule": "2N34 4N12",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "10",
+        "professor": "RAPHAEL MATOZO TROMER",
+        "schedule": "35M12",
+        "location": "BSA S BT 19/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "11",
+        "professor": "RAPHAEL MATOZO TROMER",
+        "schedule": "35M34",
+        "location": "BSA S BT 11/10"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "12",
+        "professor": "DAVID LIMA AZEVEDO",
+        "schedule": "35T45",
+        "location": "BSA S BT 11/13"
+    },
+    {
+        "subject": "IFD0175 - FISICA 2",
+        "class_id": "13",
+        "professor": "LESLAW ADAM RACHWAL",
+        "schedule": "2N34 4N12",
+        "location": "ICC ANF. 8"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "01",
+        "professor": "FABIO LUIS DE OLIVEIRA PAULA",
+        "schedule": "6N1234",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "02",
+        "professor": "LETICIA GONCALVES NUNES COELHO",
+        "schedule": "3T2345",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "03",
+        "professor": "NADIA MARIA DE LIZ KOCHE",
+        "schedule": "6M1234",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "04",
+        "professor": "GERALDO MAGELA E SILVA",
+        "schedule": "3M1234",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "05",
+        "professor": "PEDRO AUGUSTO MATOS RODRIGUES",
+        "schedule": "6T2345",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "06",
+        "professor": "RICARDO DOS REIS TEIXEIRA MARINHO",
+        "schedule": "5T2345",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "07",
+        "professor": "ALEXANDRA MOCELLIN",
+        "schedule": "4M1234",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "08",
+        "professor": "ALEXANDRE SILVA SANTOS",
+        "schedule": "2M1234",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "09",
+        "professor": "ALEXANDRA MOCELLIN",
+        "schedule": "5T2345",
+        "location": "LAB FIS 2A -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "10",
+        "professor": "RICARDO DOS REIS TEIXEIRA MARINHO",
+        "schedule": "6T2345",
+        "location": "LAB FIS 2B -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "11",
+        "professor": "JOSE ANTONIO HUAMANI COAQUIRA",
+        "schedule": "4M1234",
+        "location": "LAB FIS 2B -IF"
+    },
+    {
+        "subject": "IFD0177 - FISICA 2 EXPERIMENTAL",
+        "class_id": "12",
+        "professor": "JOSE EDUARDO MARTINS",
+        "schedule": "6M1234",
+        "location": "LAB FIS 2B -IF"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "01",
+        "professor": "FABIO MENEZES DE SOUZA LIMA",
+        "schedule": "26N34",
+        "location": "ICC AT 117"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "02",
+        "professor": "FABIO MENEZES DE SOUZA LIMA",
+        "schedule": "46M34",
+        "location": "ICC B1 244"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "03",
+        "professor": "DANIEL LIMA NASCIMENTO",
+        "schedule": "24T23",
+        "location": "PAT AT 101"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "04",
+        "professor": "DANIEL LIMA NASCIMENTO",
+        "schedule": "35T23",
+        "location": "BSA N AT 49/41"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "05",
+        "professor": "RICARDO GARGANO",
+        "schedule": "35T45",
+        "location": "ICC BT 620"
+    },
+    {
+        "subject": "IFD0179 - FISICA 3",
+        "class_id": "06",
+        "professor": "PAULO SERGIO DA SILVA CALDAS",
+        "schedule": "24T45",
+        "location": "2T45(BSA S B2 34/13) 4T45(BSA S B1 54/10)"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "01",
+        "professor": "JORLANDIO FRANCISCO FELIX",
+        "schedule": "2T2345",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "02",
+        "professor": "SEBASTIAO WILLIAM DA SILVA",
+        "schedule": "6M1234",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "03",
+        "professor": "GUILHERME SIQUEIRA GOMIDE",
+        "schedule": "4M1234",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "04",
+        "professor": "JORLANDIO FRANCISCO FELIX",
+        "schedule": "2M1234",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "05",
+        "professor": "JOSE LEONARDO FERREIRA",
+        "schedule": "6T2345",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0181 - FISICA 3 EXPERIMENTAL",
+        "class_id": "06",
+        "professor": "PAULO EDUARDO NARCIZO DE SOUZA",
+        "schedule": "3M1234",
+        "location": "LAB ELETRO - IF"
+    },
+    {
+        "subject": "IFD0247 - METODOLOGIA DO ENSINO DE FÍSICA",
+        "class_id": "01",
+        "professor": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO",
+        "schedule": "35N12",
+        "location": "ICC BT 012/63"
+    },
+    {
+        "subject": "IFD0256 - FISICA MODERNA 1",
+        "class_id": "01",
+        "professor": "VINICIUS DE ABREU OLIVEIRA",
+        "schedule": "35N34",
+        "location": "PJC BT 069"
+    },
+    {
+        "subject": "IFD0282 - PRATICA E ENSINO DE FISICA PARA O 2 GRAU 1",
+        "class_id": "01",
+        "professor": "MARIA DE FATIMA RODRIGUES MAKIUCHI",
+        "schedule": "23M5  23T1  3N12",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0293 - FISICA TERMICA",
+        "class_id": "01",
+        "professor": "MARCO CEZAR BARBOSA FERNANDES",
+        "schedule": "24N12",
+        "location": "BSA S B2 33/9"
+    },
+    {
+        "subject": "IFD0296 - METODOS MATEMATICOS DA FISICA TEORICA",
+        "class_id": "01",
+        "professor": "SERGIO COSTA ULHOA",
+        "schedule": "24N34",
+        "location": "ICC BT 012/63"
+    },
+    {
+        "subject": "IFD0304 - FISICA PARA DESENHO INDUSTRIAL",
+        "class_id": "01",
+        "professor": "NILO MAKIUCHI",
+        "schedule": "246T23",
+        "location": "ICC AT 117"
+    },
+    {
+        "subject": "IFD0334 - MATERIAIS DIDÁTICOS PARA O ENSINO DE FÍSICA",
+        "class_id": "01",
+        "professor": "MARIA DE FATIMA RODRIGUES MAKIUCHI",
+        "schedule": "35N34",
+        "location": "LADEF"
+    },
+    {
+        "subject": "IFD0338 - PROJETOS E PROGRAMAS PARA O ENSINO DE FÍSICA",
+        "class_id": "01",
+        "professor": "JAILTON CORREIA FRAGA JUNIOR",
+        "schedule": "35N34",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0340 - FUNDAMENTOS DE FÍSICA",
+        "class_id": "01",
+        "professor": "GALINA GULIS",
+        "schedule": "25M12",
+        "location": "ICC ANF.15"
+    },
+    {
+        "subject": "IFD0340 - FUNDAMENTOS DE FÍSICA",
+        "class_id": "02",
+        "professor": "GALINA GULIS",
+        "schedule": "36N12",
+        "location": "BSA S B1 34/10"
+    },
+    {
+        "subject": "IFD0340 - FUNDAMENTOS DE FÍSICA",
+        "class_id": "03",
+        "professor": "GALINA GULIS",
+        "schedule": "25M12",
+        "location": "BSA S A1 16/30"
+    },
+    {
+        "subject": "IFD0342 - FUNDAMENTOS DE ASTRONOMIA E ASTROFÍSICA",
+        "class_id": "01",
+        "professor": "JOSE LEONARDO FERREIRA",
+        "schedule": "35T45",
+        "location": "ICC BT 027"
+    },
+    {
+        "subject": "IFD0353 - PROGRAMAÇÃO PARA SISTEMAS FÍSICOS",
+        "class_id": "01",
+        "professor": "BERNARDO DE ASSUNCAO MELLO",
+        "schedule": "46M12",
+        "location": "LCC - Lab Cálculos Computacionais"
+    },
+    {
+        "subject": "IFD0353 - PROGRAMAÇÃO PARA SISTEMAS FÍSICOS",
+        "class_id": "02",
+        "professor": "BERNARDO DE ASSUNCAO MELLO",
+        "schedule": "35T45",
+        "location": "LCC - Laboratório de Cálculos Computacionais"
+    },
+    {
+        "subject": "IFD0358 - AVALIAÇÃO NO ENSINO DE FÍSICA",
+        "class_id": "01",
+        "professor": "VINICIUS RICARDO MARQUES DE SOUZA",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0369 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 4",
+        "class_id": "01",
+        "professor": "ROBERTO VINICIOS LESSA DO COUTO",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0370 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 5",
+        "class_id": "01",
+        "professor": "ROBERTO VINICIOS LESSA DO COUTO",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0377 - HISTÓRIA DA FÍSICA MODERNA",
+        "class_id": "01",
+        "professor": "VANESSA CARVALHO DE ANDRADE",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0386 - ONDAS, ÓPTICA E TERMODINÂMICA",
+        "class_id": "01",
+        "professor": "DEMETRIO ANTONIO DA SILVA FILHO",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0390 - TRABALHO DE CONCLUSÃO DE CURSO 2",
+        "class_id": "01",
+        "professor": "ALESSANDRA FERREIRA ALBERNAZ",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0390 - TRABALHO DE CONCLUSÃO DE CURSO 2",
+        "class_id": "02",
+        "professor": "VINICIUS DE CARVALHO RISPOLI",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0390 - TRABALHO DE CONCLUSÃO DE CURSO 2",
+        "class_id": "03",
+        "professor": "FABIO FERREIRA MONTEIRO",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0394 - TEORIA ELETROMAGNÉTICA",
+        "class_id": "01",
+        "professor": "FABIO FERREIRA MONTEIRO",
+        "schedule": "",
+        "location": "MULTIPOLO"
+    },
+    {
+        "subject": "IFD0417 - FRONTEIRAS DA FÍSICA",
+        "class_id": "01",
+        "professor": "LETICIA GONCALVES NUNES COELHO",
+        "schedule": "2N34",
+        "location": "Auditório do IF - ICC BT-309"
+    },
+    {
+        "subject": "IFD0418 - MECÂNICA 1",
+        "class_id": "01",
+        "professor": "VANESSA CARVALHO DE ANDRADE",
+        "schedule": "35N12",
+        "location": "ICC BT 552"
+    },
+    {
+        "subject": "IFD0419 - MECÂNICA 2",
+        "class_id": "01",
+        "professor": "ALEXANDRE CAVALHEIRO DIAS",
+        "schedule": "35N12",
+        "location": "PJC BT 005"
+    },
+    {
+        "subject": "IFD0420 - TERMODINÂMICA",
+        "class_id": "01",
+        "professor": "LEONARDO LUIZ E CASTRO",
+        "schedule": "2N34 4N12",
+        "location": "PJC BT 069"
+    },
+    {
+        "subject": "IFD0421 - ELETROMAGNETISMO 1",
+        "class_id": "01",
+        "professor": "ANDRE LUIZ ALMEIDA PENNA",
+        "schedule": "24N12",
+        "location": "2N12(ICC BT 016/62) 4N12(ICC AT 104)"
+    },
+    {
+        "subject": "IFD0422 - ELETROMAGNETISMO 2",
+        "class_id": "01",
+        "professor": "RAFAEL BESSE",
+        "schedule": "24N12",
+        "location": "PJC BT 044"
+    },
+    {
+        "subject": "IFD0423 - ONDAS E ÓPTICA",
+        "class_id": "01",
+        "professor": "MARCO ANTONIO RODRIGUEZ MARTINEZ",
+        "schedule": "24N12",
+        "location": "ICC BT 012/62"
+    },
+    {
+        "subject": "IFD0424 - LABORATÓRIO DE FÍSICA CLÁSSICA 1",
+        "class_id": "01",
+        "professor": "FERMIN FIDEL HERRERA ARAGON",
+        "schedule": "7M12  6N1234",
+        "location": "Módulo 09 ICC CSS216"
+    },
+    {
+        "subject": "IFD0425 - LABORATÓRIO DE FÍSICA CLÁSSICA 2",
+        "class_id": "01",
+        "professor": "JOSE ANDRE FILHO",
+        "schedule": "7M12  6N1234",
+        "location": "Módulo 09 ICC CSS216"
+    },
+    {
+        "subject": "IFD0426 - HISTÓRIA DA FÍSICA CLÁSSICA",
+        "class_id": "01",
+        "professor": "ANDRE LUIS MIRANDA DE BARCELLOS COELHO",
+        "schedule": "35N34",
+        "location": "ICC BT 012/63"
+    },
+    {
+        "subject": "IFD0427 - FÍSICA MODERNA 2",
+        "class_id": "01",
+        "professor": "ADRIANA PEREIRA IBALDO",
+        "schedule": "24N12",
+        "location": "ICC AT- 157/8"
+    },
+    {
+        "subject": "IFD0428 - LABORATÓRIO DE FÍSICA MODERNA E CONTEMPORÂNEA",
+        "class_id": "01",
+        "professor": "GERALDO JOSE DA SILVA",
+        "schedule": "6N1234",
+        "location": "Módulo 9 ICC CSS 216-LAB Óptica"
+    },
+    {
+        "subject": "IFD0429 - HISTÓRIA DA FÍSICA MODERNA",
+        "class_id": "01",
+        "professor": "CASSIO COSTA LARANJEIRAS",
+        "schedule": "24N34",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0430 - INTRODUÇÃO AO ENSINO E DIVULGAÇÃO DA FÍSICA",
+        "class_id": "01",
+        "professor": "FELIPPE GUIMARAES MACIEL",
+        "schedule": "2N34",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0431 - EPISTEMOLOGIA E ENSINO DE FÍSICA",
+        "class_id": "01",
+        "professor": "CASSIO COSTA LARANJEIRAS",
+        "schedule": "24N12",
+        "location": "LADEF"
+    },
+    {
+        "subject": "IFD0432 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 1",
+        "class_id": "01",
+        "professor": "MARIA DE FATIMA RODRIGUES MAKIUCHI",
+        "schedule": "23M5  3N12",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0433 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 2",
+        "class_id": "01",
+        "professor": "FELIPPE GUIMARAES MACIEL",
+        "schedule": "2345M5  3N12",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0433 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 2",
+        "class_id": "02",
+        "professor": "MARCELLO FERREIRA",
+        "schedule": "4T56 7T1234",
+        "location": "A definir"
+    },
+    {
+        "subject": "IFD0434 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 3",
+        "class_id": "01",
+        "professor": "KHALIL OLIVEIRA PORTUGAL",
+        "schedule": "2345T6  5N12",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0434 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 3",
+        "class_id": "02",
+        "professor": "MARCELLO FERREIRA",
+        "schedule": "7M1234  3T56",
+        "location": "Ladef"
+    },
+    {
+        "subject": "IFD0435 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 4",
+        "class_id": "01",
+        "professor": "MARCELLO FERREIRA",
+        "schedule": "2345M5  3N12",
+        "location": "PAT AT 142"
+    },
+    {
+        "subject": "IFD0436 - ESTÁGIO CURRICULAR SUPERVISIONADO EM FÍSICA 5",
+        "class_id": "01",
+        "professor": "ERONDINA AZEVEDO DE LIMA",
+        "schedule": "2345T6  5N12",
+        "location": "PJC BT 044"
     }
 ]
