@@ -17,6 +17,9 @@ def main():
     finally:
         driver.quit()
 
+    for c in classes_list:
+        print(c)
+
     with open("classes_data.json", "w", encoding="utf-8") as f:
         json.dump(classes_list, f, indent=4, ensure_ascii=False)
 
@@ -46,14 +49,14 @@ def get_all_classes(building, classes_list):
         columns = row.find_all("td")
 
         if len(columns) >= 4:
-            class_id = columns[0].get_text(strip=True)
+            class_number = columns[0].get_text(strip=True)
             professor = columns[2].get_text(strip=True).split("(")[0].strip()
             raw_schedule = columns[3].find(string=True, recursive=False).split("(")[0].strip()
             location = columns[7].get_text(strip=True)
 
             class_data = {
                 "subject": current_subject,
-                "class_id": class_id,
+                "class_number": class_number,
                 "professor": professor,
                 "schedule": raw_schedule,
                 "location": location,
