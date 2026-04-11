@@ -11,9 +11,7 @@ class Subject(models.Model):
 
 
 class ClassSection(models.Model):
-    subject = models.ForeignKey(
-        Subject, on_delete=models.CASCADE, related_name="classes"
-    )
+    subject = models.ForeignKey(Subject, on_delete=models.CASCADE, related_name="classes")
     section_code = models.CharField(max_length=2)
     professor = models.CharField(max_length=200, blank=True)
     schedule_code = models.CharField(max_length=50, blank=True)

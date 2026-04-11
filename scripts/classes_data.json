@@ -1,0 +1,1647 @@
+[
+    {
+        "subject": "FCTE0004 - MATEMÁTICA PARA COMPETIÇÕES",
+        "class_id": "01",
+        "professor": "EDSON ALVES DA COSTA JUNIOR",
+        "schedule": "35T6  35N1",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0003 - COMPILADORES 1",
+        "class_id": "01",
+        "professor": "SERGIO ANTONIO ANDRADE DE FREITAS",
+        "schedule": "24T23",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0003 - COMPILADORES 1",
+        "class_id": "02",
+        "professor": "FABIO MACEDO MENDES",
+        "schedule": "46T45",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0006 - FUNDAMENTOS DE EQUAÇÕES DIFERENCIAIS PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "RONNI GERALDO GOMES DE AMORIM",
+        "schedule": "35M34",
+        "location": "FCTE - LDTEA 303"
+    },
+    {
+        "subject": "FGA0008 - SISTEMAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "RONNE TOLEDO",
+        "schedule": "24M34",
+        "location": "FCTE - CONTEINER 17"
+    },
+    {
+        "subject": "FGA0017 - PROJETOS DE CIRCUITOS INTEGRADOS 1",
+        "class_id": "01",
+        "professor": "WELLINGTON AVELINO DO AMARAL",
+        "schedule": "35T23",
+        "location": "FCTE - I4 / LAB SS"
+    },
+    {
+        "subject": "FGA0023 - DINÂMICA DOS MECANISMOS",
+        "class_id": "01",
+        "professor": "RITA DE CASSIA SILVA",
+        "schedule": "35M12",
+        "location": "FCTE - I5"
+    },
+    {
+        "subject": "FGA0025 - SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+        "class_id": "01",
+        "professor": "JORGE ANDRES CORMANE ANGARITA",
+        "schedule": "24T23",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0030 - ESTRUTURAS DE DADOS 2",
+        "class_id": "01",
+        "professor": "GLAUCO VITOR PEDROSA",
+        "schedule": "35T23",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "FGA0030 - ESTRUTURAS DE DADOS 2",
+        "class_id": "02",
+        "professor": "MAURICIO SERRANO",
+        "schedule": "26M12",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0030 - ESTRUTURAS DE DADOS 2",
+        "class_id": "03",
+        "professor": "GLAUCO VITOR PEDROSA",
+        "schedule": "46T23",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0034 - TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+        "class_id": "01",
+        "professor": "VINICIUS DE CARVALHO RISPOLI",
+        "schedule": "35T23",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0034 - TÓPICOS ESPECIAIS EM MATEMÁTICA APLICADA",
+        "class_id": "02",
+        "professor": "BRUNO LUIZ PEREIRA",
+        "schedule": "24T6  24N1",
+        "location": "FCTE - LDTEA Sala 303"
+    },
+    {
+        "subject": "FGA0037 - TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+        "class_id": "01",
+        "professor": "WILLIAM REIS SILVA",
+        "schedule": "46T23",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0037 - TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+        "class_id": "02",
+        "professor": "FERNANDO MEREGE",
+        "schedule": "26M12",
+        "location": "FCTE - I1 / I2"
+    },
+    {
+        "subject": "FGA0038 - AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "OLEXIY SHYNKARENKO",
+        "schedule": "35T45 6T4",
+        "location": "FCTE - I4"
+    },
+    {
+        "subject": "FGA0039 - MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "ARTEM ANDRIANOV",
+        "schedule": "2M5 35M12",
+        "location": "FCTE - I7/I4"
+    },
+    {
+        "subject": "FGA0040 - SISTEMAS DE CONTROLE AUTOMOTIVO",
+        "class_id": "01",
+        "professor": "RAFAEL RODRIGUES DA SILVA",
+        "schedule": "24M34",
+        "location": "FCTE - LAB NIT/LDS"
+    },
+    {
+        "subject": "FGA0041 - TÓPICOS ESPECIAIS EM JOGOS DIGITAIS",
+        "class_id": "01",
+        "professor": "EDUARDO GABRIEL QUEIROZ PALMEIRA",
+        "schedule": "24T23",
+        "location": "FCTE - LDTEA 303"
+    },
+    {
+        "subject": "FGA0043 - DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "OLEXIY SHYNKARENKO",
+        "schedule": "35T23",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0044 - PROJETO DE SISTEMAS DE CONTROLE",
+        "class_id": "01",
+        "professor": "THIAGO FELIPPE KURUDEZ CORDEIRO",
+        "schedule": "46M12",
+        "location": "FCTE - I6 / I5"
+    },
+    {
+        "subject": "FGA0045 - MECÂNICA DO VÔO",
+        "class_id": "01",
+        "professor": "POLLIANA CANDIDA OLIVEIRA MARTINS",
+        "schedule": "46M34",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0047 - PROCESSOS PETROQUÍMICOS",
+        "class_id": "01",
+        "professor": "ANDREIA ALVES COSTA LINDINGER",
+        "schedule": "35M34",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0048 - MECÂNICA DO VOO ESPACIAL",
+        "class_id": "01",
+        "professor": "WILLIAM REIS SILVA",
+        "schedule": "46M34",
+        "location": "FCTE - I5"
+    },
+    {
+        "subject": "FGA0050 - DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "SERGIO HENRIQUE DA SILVA CARNEIRO",
+        "schedule": "35M34",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0055 - TECNOLOGIAS DE FABRICAÇÃO 1",
+        "class_id": "01",
+        "professor": "RHANDER VIANA",
+        "schedule": "35T23",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0056 - TECNOLOGIAS DE FABRICAÇÃO 2",
+        "class_id": "01",
+        "professor": "EDISON GUSTAVO CUEVA GALARRAGA",
+        "schedule": "35M34",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0060 - SISTEMAS DE BANCO DE DADOS 2",
+        "class_id": "01",
+        "professor": "VANDOR ROBERTO VILARDI RISSOLI",
+        "schedule": "35M12",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0060 - SISTEMAS DE BANCO DE DADOS 2",
+        "class_id": "02",
+        "professor": "VANDOR ROBERTO VILARDI RISSOLI",
+        "schedule": "35T23",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0067 - TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "01",
+        "professor": "LUIS FILOMENO DE JESUS FERNANDES",
+        "schedule": "24M12",
+        "location": "FCTE - I3 / S4"
+    },
+    {
+        "subject": "FGA0067 - TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "02",
+        "professor": "EULER DE VILHENA GARCIA",
+        "schedule": "35M12",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0067 - TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "03",
+        "professor": "LUCIANO EMIDIO NEVES DA FONSECA",
+        "schedule": "24T23",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "FGA0068 - TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+        "class_id": "01",
+        "professor": "GILMAR SILVA BESERRA",
+        "schedule": "24M34",
+        "location": "FCTE - I6"
+    },
+    {
+        "subject": "FGA0069 - PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "01",
+        "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
+        "schedule": "5M12",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0069 - PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "02",
+        "professor": "MARCUS VINICIUS CHAFFIM COSTA",
+        "schedule": "3M34",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0069 - PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+        "class_id": "03",
+        "professor": "MARCUS VINICIUS CHAFFIM COSTA",
+        "schedule": "5M34",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0070 - PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+        "class_id": "01",
+        "professor": "DIOGO DE OLIVEIRA COSTA",
+        "schedule": "3T23",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "01",
+        "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
+        "schedule": "3M12",
+        "location": "FCTE- LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "02",
+        "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+        "schedule": "3T23",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "03",
+        "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+        "schedule": "5M12",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "04",
+        "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+        "schedule": "5M34",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "05",
+        "professor": "HENRIQUE MARRA TAIRA MENEGAZ",
+        "schedule": "3M5  3T1",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "06",
+        "professor": "MARCELINO MONTEIRO DE ANDRADE",
+        "schedule": "4M12",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "07",
+        "professor": "MARCELINO MONTEIRO DE ANDRADE",
+        "schedule": "4M34",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "08",
+        "professor": "MARCELINO MONTEIRO DE ANDRADE",
+        "schedule": "4T23",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "09",
+        "professor": "MARCELINO MONTEIRO DE ANDRADE",
+        "schedule": "4T45",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "11",
+        "professor": "THIAGO LUIZ DE SOUZA GOMES",
+        "schedule": "6M34",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0071 - PRÁTICA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "12",
+        "professor": "THIAGO LUIZ DE SOUZA GOMES",
+        "schedule": "6M12",
+        "location": "FCTE - LAB NEI 2"
+    },
+    {
+        "subject": "FGA0072 - PRÁTICA DE ELETRÔNICA DIGITAL 2",
+        "class_id": "01",
+        "professor": "GILMAR SILVA BESERRA",
+        "schedule": "2M12",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0072 - PRÁTICA DE ELETRÔNICA DIGITAL 2",
+        "class_id": "02",
+        "professor": "GILMAR SILVA BESERRA",
+        "schedule": "4M12",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0073 - TEORIA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "01",
+        "professor": "RENATO VILELA LOPES",
+        "schedule": "46M12",
+        "location": "FCTE - I9 / S1"
+    },
+    {
+        "subject": "FGA0073 - TEORIA DE ELETRÔNICA DIGITAL 1",
+        "class_id": "02",
+        "professor": "RENATO VILELA LOPES",
+        "schedule": "46T23",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "FGA0074 - TEORIA DE ELETRÔNICA DIGITAL 2",
+        "class_id": "01",
+        "professor": "DANIEL MAURICIO MUNOZ ARBOLEDA",
+        "schedule": "35M34",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "01",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "2T4",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "02",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "3M4",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "03",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "3M3",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "04",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "4M5",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "08",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "4T4",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0075 - LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "09",
+        "professor": "RODRIGO ARBEY MUNOZ MENESES",
+        "schedule": "5M3",
+        "location": "FCTE - LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0076 - EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+        "class_id": "01",
+        "professor": "ALESSANDRO BORGES DE SOUSA OLIVEIRA",
+        "schedule": "46M12",
+        "location": "FCTE - I4"
+    },
+    {
+        "subject": "FGA0077 - INTRODUÇÃO AO DESGASTE",
+        "class_id": "01",
+        "professor": "EDISON GUSTAVO CUEVA GALARRAGA",
+        "schedule": "35T23",
+        "location": "FCTE - MULTIUSO"
+    },
+    {
+        "subject": "FGA0078 - TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "01",
+        "professor": "EMMANUEL PACHECO ROCHA LIMA",
+        "schedule": "2T23 4T1",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0078 - TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+        "class_id": "02",
+        "professor": "RODRIGO ARBEY MUNOZ MENESES",
+        "schedule": "3T23 5T2",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0083 - APRENDIZADO DE MÁQUINA",
+        "class_id": "01",
+        "professor": "SERGIO ANTONIO ANDRADE DE FREITAS",
+        "schedule": "24T45",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0085 - MATEMÁTICA DISCRETA 1",
+        "class_id": "01",
+        "professor": "ANDRES FELIPE GONZALEZ BARRAGAN",
+        "schedule": "24M12",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0085 - MATEMÁTICA DISCRETA 1",
+        "class_id": "02",
+        "professor": "ANDRES FELIPE GONZALEZ BARRAGAN",
+        "schedule": "24T23",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0085 - MATEMÁTICA DISCRETA 1",
+        "class_id": "03",
+        "professor": "ANDRES FELIPE GONZALEZ BARRAGAN",
+        "schedule": "24T45",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0086 - TEORIA DE ELETRICIDADE APLICADA",
+        "class_id": "01",
+        "professor": "JORGE ANDRES CORMANE ANGARITA",
+        "schedule": "24M12",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0086 - TEORIA DE ELETRICIDADE APLICADA",
+        "class_id": "02",
+        "professor": "FLAVIO HENRIQUE JUSTINIANO RIBEIRO DA SILVA",
+        "schedule": "24T45",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0087 - LABORATÓRIO DE ELETRICIDADE APLICADA",
+        "class_id": "01",
+        "professor": "LOANA NUNES VELASCO",
+        "schedule": "2T45",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0087 - LABORATÓRIO DE ELETRICIDADE APLICADA",
+        "class_id": "02",
+        "professor": "LOANA NUNES VELASCO",
+        "schedule": "4T23",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0087 - LABORATÓRIO DE ELETRICIDADE APLICADA",
+        "class_id": "03",
+        "professor": "RUDI HENRI VAN ELS",
+        "schedule": "3T23",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0087 - LABORATÓRIO DE ELETRICIDADE APLICADA",
+        "class_id": "04",
+        "professor": "RUDI HENRI VAN ELS",
+        "schedule": "3T45",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0087 - LABORATÓRIO DE ELETRICIDADE APLICADA",
+        "class_id": "05",
+        "professor": "JORGE ANDRES CORMANE ANGARITA",
+        "schedule": "2M34",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0088 - TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+        "class_id": "01",
+        "professor": "FLAVIO HENRIQUE JUSTINIANO RIBEIRO DA SILVA",
+        "schedule": "46M12",
+        "location": "FCTE - I3"
+    },
+    {
+        "subject": "FGA0089 - LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+        "class_id": "01",
+        "professor": "RUDI HENRI VAN ELS",
+        "schedule": "4T45",
+        "location": "FCTE - LAB ELET"
+    },
+    {
+        "subject": "FGA0090 - ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "EBERTH DE ALMEIDA CORREA",
+        "schedule": "35T23",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0091 - MÁQUINAS DE FLUIDO",
+        "class_id": "01",
+        "professor": "JHON NERO VAZ GOULART",
+        "schedule": "24M12  4T2",
+        "location": "FCTE - I5 / LAB TERMOFLUIDOS"
+    },
+    {
+        "subject": "FGA0092 - PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "DANIEL COSTA ARAUJO",
+        "schedule": "3M125 5M12",
+        "location": "FCTE - I2 / LAB SS / I2"
+    },
+    {
+        "subject": "FGA0093 - PRINCÍPIOS DE CONTROLE",
+        "class_id": "01",
+        "professor": "ROBERTO DE SOUZA BAPTISTA",
+        "schedule": "3T145 5T45",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0093 - PRINCÍPIOS DE CONTROLE",
+        "class_id": "02",
+        "professor": "THIAGO FELIPPE KURUDEZ CORDEIRO",
+        "schedule": "46T23 5T1",
+        "location": "FCTE - I5 / LAB SS / I5"
+    },
+    {
+        "subject": "FGA0098 - PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+        "class_id": "01",
+        "professor": "DIOGO DE OLIVEIRA COSTA",
+        "schedule": "5T23",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0099 - TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+        "class_id": "01",
+        "professor": "WELLINGTON AVELINO DO AMARAL",
+        "schedule": "35T45",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0100 - PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+        "class_id": "02",
+        "professor": "GERARDO ANTONIO IDROBO PIZO",
+        "schedule": "3M5  3T1",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0100 - PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+        "class_id": "03",
+        "professor": "GERARDO ANTONIO IDROBO PIZO",
+        "schedule": "6T45",
+        "location": "FCTE - LAB NEI 1"
+    },
+    {
+        "subject": "FGA0101 - TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+        "class_id": "01",
+        "professor": "MARCUS VINICIUS BATISTUTA",
+        "schedule": "35T45",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0102 - SINAIS E SISTEMAS PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "LUIS FILOMENO DE JESUS FERNANDES",
+        "schedule": "356T23",
+        "location": "FCTE - I8 / I8 / I6"
+    },
+    {
+        "subject": "FGA0102 - SINAIS E SISTEMAS PARA ENGENHARIA",
+        "class_id": "02",
+        "professor": "LUCIANO EMIDIO NEVES DA FONSECA",
+        "schedule": "246M34",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0104 - QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+        "class_id": "01",
+        "professor": "JULIANA PETROCCHI RODRIGUES",
+        "schedule": "24M34",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0105 - TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "01",
+        "professor": "LUI TXAI CALVOSO HABL",
+        "schedule": "24M5  24T1",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0105 - TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "02",
+        "professor": "ARTUR ELIAS DE MORAIS BERTOLDI",
+        "schedule": "35T45",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0105 - TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "03",
+        "professor": "ANDRE LUIS RODRIGUES ARAUJO",
+        "schedule": "24T45",
+        "location": "FCTE - I5"
+    },
+    {
+        "subject": "FGA0106 - TÓPICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "01",
+        "professor": "ARTUR ELIAS DE MORAIS BERTOLDI",
+        "schedule": "35M5  35T1",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0106 - TÓPICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "02",
+        "professor": "DIOGO DE OLIVEIRA COSTA",
+        "schedule": "35M5  35T1",
+        "location": "FCTE - I6"
+    },
+    {
+        "subject": "FGA0107 - LABORATÓRIO DE ONDULATÓRIA E FÍSICA TÉRMICA PARA A ENGENHARIA",
+        "class_id": "01",
+        "professor": "EBERTH DE ALMEIDA CORREA",
+        "schedule": "5M34",
+        "location": "FCTE - LAB FÍSICA 2"
+    },
+    {
+        "subject": "FGA0108 - MATEMÁTICA DISCRETA 2",
+        "class_id": "02",
+        "professor": "LINDOMAR BOMFIM DE CARVALHO DE JESUS",
+        "schedule": "35M12",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+        "class_id": "01",
+        "professor": "RENATO CORAL SAMPAIO",
+        "schedule": "35T23",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+        "class_id": "02",
+        "professor": "RENATO CORAL SAMPAIO",
+        "schedule": "35T45",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+        "class_id": "03",
+        "professor": "DANIEL VALLE DE LIMA",
+        "schedule": "46M12",
+        "location": "FCTE - S1 / I6"
+    },
+    {
+        "subject": "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+        "class_id": "04",
+        "professor": "DANIEL VALLE DE LIMA",
+        "schedule": "46M34",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0109 - FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+        "class_id": "05",
+        "professor": "DANIEL VALLE DE LIMA",
+        "schedule": "46T45",
+        "location": "FCTE - I6"
+    },
+    {
+        "subject": "FGA0119 - TEORIA DE ELETROMAGNETISMO",
+        "class_id": "01",
+        "professor": "DANIEL COSTA ARAUJO",
+        "schedule": "26M34",
+        "location": "FCTE - I8 / I2"
+    },
+    {
+        "subject": "FGA0120 - PRÁTICA DE ELETROMAGNETISMO",
+        "class_id": "01",
+        "professor": "GERARDO ANTONIO IDROBO PIZO",
+        "schedule": "6T23",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0120 - PRÁTICA DE ELETROMAGNETISMO",
+        "class_id": "02",
+        "professor": "GERARDO ANTONIO IDROBO PIZO",
+        "schedule": "3T45",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0121 - TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+        "class_id": "02",
+        "professor": "RONNE TOLEDO",
+        "schedule": "24T23",
+        "location": "FCTE - CONTEINER 17"
+    },
+    {
+        "subject": "FGA0124 - PROJETO DE ALGORITMOS",
+        "class_id": "01",
+        "professor": "MAURICIO SERRANO",
+        "schedule": "26M34",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0132 - INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "CLAUDIA PATRICIA OCHOA DIAZ",
+        "schedule": "35M34",
+        "location": "FCTE - I3 / I7"
+    },
+    {
+        "subject": "FGA0133 - ENGENHARIA ECONÔMICA",
+        "class_id": "01",
+        "professor": "PAULA MEYER SOARES",
+        "schedule": "35M34",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "FGA0133 - ENGENHARIA ECONÔMICA",
+        "class_id": "02",
+        "professor": "GLAUCENY CIRNE DE MEDEIROS",
+        "schedule": "46T45",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0134 - TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+        "class_id": "01",
+        "professor": "CARLA SILVA ROCHA AGUIAR",
+        "schedule": "24T23",
+        "location": "FCTE - I4"
+    },
+    {
+        "subject": "FGA0134 - TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+        "class_id": "02",
+        "professor": "LINDOMAR BOMFIM DE CARVALHO DE JESUS",
+        "schedule": "24M12",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0137 - SISTEMAS DE BANCO DE DADOS 1",
+        "class_id": "01",
+        "professor": "GLAUCO VITOR PEDROSA",
+        "schedule": "46M34",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0141 - GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+        "class_id": "01",
+        "professor": "MARIA VITORIA DUARTE FERRARI",
+        "schedule": "46M34",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0142 - FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+        "class_id": "01",
+        "professor": "TIAGO ALVES DA FONSECA",
+        "schedule": "26M12",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "FGA0142 - FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+        "class_id": "02",
+        "professor": "TIAGO ALVES DA FONSECA",
+        "schedule": "24M34",
+        "location": "FCTE - S9 / MOCAP"
+    },
+    {
+        "subject": "FGA0146 - ESTRUTURAS DE DADOS 1",
+        "class_id": "01",
+        "professor": "FABRICIO ATAIDES BRAZ",
+        "schedule": "35M34",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0146 - ESTRUTURAS DE DADOS 1",
+        "class_id": "02",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "35M34",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0146 - ESTRUTURAS DE DADOS 1",
+        "class_id": "03",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "35T45",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0146 - ESTRUTURAS DE DADOS 1",
+        "class_id": "04",
+        "professor": "A DEFINIR DOCENTE",
+        "schedule": "35T6  35N1",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0148 - ENGENHARIA DE SEGURANÇA DO TRABALHO",
+        "class_id": "01",
+        "professor": "MARIA ALZIRA DE ARAUJO NUNES",
+        "schedule": "2M12",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0148 - ENGENHARIA DE SEGURANÇA DO TRABALHO",
+        "class_id": "02",
+        "professor": "MARIA ALZIRA DE ARAUJO NUNES",
+        "schedule": "2M34",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0152 - ERGONOMIA DO PRODUTO",
+        "class_id": "01",
+        "professor": "MATEUS RODRIGUES MIRANDA",
+        "schedule": "46M12",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0154 - MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "GLAUCENY CIRNE DE MEDEIROS",
+        "schedule": "46T23",
+        "location": "FCTE - I3"
+    },
+    {
+        "subject": "FGA0154 - MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+        "class_id": "02",
+        "professor": "SUZANA MOREIRA AVILA",
+        "schedule": "35M34",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0154 - MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+        "class_id": "03",
+        "professor": "SERGIO HENRIQUE DA SILVA CARNEIRO",
+        "schedule": "35M12",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0155 - INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+        "class_id": "01",
+        "professor": "ENEIDA GONZALEZ VALDES",
+        "schedule": "46T23",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0156 - COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+        "class_id": "01",
+        "professor": "ROSEANY DE VASCONCELOS VIEIRA LOPES",
+        "schedule": "46T23",
+        "location": "FCTE - MULTIUSO"
+    },
+    {
+        "subject": "FGA0157 - PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+        "class_id": "01",
+        "professor": "MARILIA MIRANDA FORTE GOMES",
+        "schedule": "46M34",
+        "location": "FCTE - S3 / S2"
+    },
+    {
+        "subject": "FGA0157 - PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+        "class_id": "02",
+        "professor": "MARILIA MIRANDA FORTE GOMES",
+        "schedule": "46M5  46T1",
+        "location": "FCTE - S9"
+    },
+    {
+        "subject": "FGA0158 - ORIENTAÇÃO A OBJETOS",
+        "class_id": "01",
+        "professor": "ANDRE LUIZ PERON MARTINS LANNA",
+        "schedule": "24T23",
+        "location": "FCTE - I10 / S10"
+    },
+    {
+        "subject": "FGA0158 - ORIENTAÇÃO A OBJETOS",
+        "class_id": "03",
+        "professor": "HENRIQUE GOMES DE MOURA",
+        "schedule": "35M5  35T1",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0160 - MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "RODRIGO ANDRES MIRANDA CERDA",
+        "schedule": "24M5  24T1",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "FGA0160 - MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+        "class_id": "02",
+        "professor": "RODRIGO ANDRES MIRANDA CERDA",
+        "schedule": "24T23",
+        "location": "FCTE - S1 / S4"
+    },
+    {
+        "subject": "FGA0163 - INTRODUÇÃO À ENGENHARIA",
+        "class_id": "01",
+        "professor": "LUI TXAI CALVOSO HABL",
+        "schedule": "4T23",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0163 - INTRODUÇÃO À ENGENHARIA",
+        "class_id": "02",
+        "professor": "ROBERTO DE SOUZA BAPTISTA",
+        "schedule": "3M12",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0163 - INTRODUÇÃO À ENGENHARIA",
+        "class_id": "03",
+        "professor": "RICARDO RAMOS FRAGELLI",
+        "schedule": "2T23",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0164 - HUMANIDADES E CIDADANIA",
+        "class_id": "01",
+        "professor": "SANDRA MARIA FALEIROS LIMA",
+        "schedule": "46T23",
+        "location": "FCTE - I2"
+    },
+    {
+        "subject": "FGA0164 - HUMANIDADES E CIDADANIA",
+        "class_id": "02",
+        "professor": "SANDRA MARIA FALEIROS LIMA",
+        "schedule": "46M5  46T1",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0164 - HUMANIDADES E CIDADANIA",
+        "class_id": "03",
+        "professor": "VANESSA MARIA DE CASTRO",
+        "schedule": "35T23",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "FGA0164 - HUMANIDADES E CIDADANIA",
+        "class_id": "04",
+        "professor": "VANESSA MARIA DE CASTRO",
+        "schedule": "35T45",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "FGA0167 - SISTEMAS AUTOMOTIVOS",
+        "class_id": "01",
+        "professor": "SALEH BARBOSA KHALIL",
+        "schedule": "35T23",
+        "location": "FCTE - I5"
+    },
+    {
+        "subject": "FGA0168 - DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+        "class_id": "01",
+        "professor": "ENEIDA GONZALEZ VALDES",
+        "schedule": "246M12",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0168 - DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+        "class_id": "02",
+        "professor": "ANDRE LUIS RODRIGUES ARAUJO",
+        "schedule": "246M12",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0168 - DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+        "class_id": "03",
+        "professor": "HIMILSYS HERNANDEZ GONZALEZ",
+        "schedule": "235M34",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0168 - DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+        "class_id": "04",
+        "professor": "SALEH BARBOSA KHALIL",
+        "schedule": "235M34",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0168 - DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+        "class_id": "05",
+        "professor": "MATEUS RODRIGUES MIRANDA",
+        "schedule": "356T45",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0169 - FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+        "class_id": "01",
+        "professor": "AUGUSTO CESAR DE MENDONCA BRASIL",
+        "schedule": "35T23",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0170 - FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+        "class_id": "02",
+        "professor": "DANIEL SUNDFELD LIMA",
+        "schedule": "46M5  46T1",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "FGA0173 - INTERAÇÃO HUMANO COMPUTADOR",
+        "class_id": "01",
+        "professor": "SERGIO ANTONIO ANDRADE DE FREITAS",
+        "schedule": "24M34",
+        "location": "FCTE - I3 / S2"
+    },
+    {
+        "subject": "FGA0173 - INTERAÇÃO HUMANO COMPUTADOR",
+        "class_id": "02",
+        "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
+        "schedule": "35T45",
+        "location": "FCTE - S9 / I10"
+    },
+    {
+        "subject": "FGA0173 - INTERAÇÃO HUMANO COMPUTADOR",
+        "class_id": "03",
+        "professor": "ANDRE BARROS DE SALES",
+        "schedule": "35M12",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0174 - DESENVOLVIMENTO SUSTENTÁVEL",
+        "class_id": "01",
+        "professor": "JULIANA DALBONI ROCHA",
+        "schedule": "35M12",
+        "location": "FCTE - LDTEA 303"
+    },
+    {
+        "subject": "FGA0175 - ENGENHARIA DE PETRÓLEO E GÁS",
+        "class_id": "01",
+        "professor": "FELIPE CHAGAS STORTI",
+        "schedule": "35T45",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0179 - MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "MAURA ANGELICA MILFONT SHZU",
+        "schedule": "35M34",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0188 - MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+        "class_id": "01",
+        "professor": "RODRIGO ARBEY MUNOZ MENESES",
+        "schedule": "35M12",
+        "location": "FCTE - MULTIUSO / LAB MATERIAIS"
+    },
+    {
+        "subject": "FGA0190 - PROJETO DE ELEMENTOS AUTOMOTIVOS",
+        "class_id": "01",
+        "professor": "RITA DE CASSIA SILVA",
+        "schedule": "246M34",
+        "location": "FCTE - I4"
+    },
+    {
+        "subject": "FGA0191 - MATERIAIS COMPOSTOS E PLÁSTICOS",
+        "class_id": "01",
+        "professor": "SANDRA MARIA DA LUZ",
+        "schedule": "35T23",
+        "location": "FCTE - LDTEA Sala 303"
+    },
+    {
+        "subject": "FGA0194 - ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+        "class_id": "01",
+        "professor": "FABIO CORDEIRO DE LISBOA",
+        "schedule": "46T23",
+        "location": "FCTE - LDTEA Sala 302"
+    },
+    {
+        "subject": "FGA0198 - PROJETO COM CIRCUITOS RECONFIGURAVEIS",
+        "class_id": "01",
+        "professor": "DANIEL MAURICIO MUNOZ ARBOLEDA",
+        "schedule": "35M12",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0204 - DINÂMICA DOS FLUÍDOS",
+        "class_id": "01",
+        "professor": "RAFAEL CASTILHO FARIA MENDES",
+        "schedule": "26M34 4M3",
+        "location": "FCTE - S8 / I3 / LAB TERMOFLUIDOS"
+    },
+    {
+        "subject": "FGA0204 - DINÂMICA DOS FLUÍDOS",
+        "class_id": "02",
+        "professor": "RAFAEL CASTILHO FARIA MENDES",
+        "schedule": "26M34 4M4",
+        "location": "FCTE - S8 / I3 / LAB TERMOFLUIDOS"
+    },
+    {
+        "subject": "FGA0208 - ARQUITETURA E DESENHO DE SOFTWARE",
+        "class_id": "01",
+        "professor": "MILENE SERRANO",
+        "schedule": "26M12",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "FGA0208 - ARQUITETURA E DESENHO DE SOFTWARE",
+        "class_id": "02",
+        "professor": "MILENE SERRANO",
+        "schedule": "26M34",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0210 - PARADIGMAS DE PROGRAMAÇÃO",
+        "class_id": "01",
+        "professor": "EDSON ALVES DA COSTA JUNIOR",
+        "schedule": "35T45",
+        "location": "FCTE - S4"
+    },
+    {
+        "subject": "FGA0210 - PARADIGMAS DE PROGRAMAÇÃO",
+        "class_id": "02",
+        "professor": "FABIO MACEDO MENDES",
+        "schedule": "46T23",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0211 - FUNDAMENTOS DE REDES DE COMPUTADORES",
+        "class_id": "01",
+        "professor": "FERNANDO WILLIAM CRUZ",
+        "schedule": "24T23",
+        "location": "FCTE - S10 / MOCAP"
+    },
+    {
+        "subject": "FGA0214 - TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+        "class_id": "02",
+        "professor": "SANDRA MARIA DA LUZ",
+        "schedule": "6M1234",
+        "location": "FCTE - LDTEA 303 (Análise Térmica de Materiais)"
+    },
+    {
+        "subject": "FGA0214 - TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+        "class_id": "03",
+        "professor": "RHANDER VIANA",
+        "schedule": "35T45",
+        "location": "FCTE - LAB FAB (NOÇÕES PRÁTICAS FABRICAÇÃO MECÂN.)"
+    },
+    {
+        "subject": "FGA0219 - PROCESSAMENTO DE SINAIS",
+        "class_id": "01",
+        "professor": "CRISTIANO JACQUES MIOSSO RODRIGUES MENDES",
+        "schedule": "46M12",
+        "location": "FCTE - I1"
+    },
+    {
+        "subject": "FGA0221 - INTELIGÊNCIA ARTIFICIAL",
+        "class_id": "01",
+        "professor": "FABIANO ARAUJO SOARES",
+        "schedule": "35T45",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0222 - INSTRUMENTAÇÃO BIOMÉDICA 1",
+        "class_id": "01",
+        "professor": "EULER DE VILHENA GARCIA",
+        "schedule": "35M34",
+        "location": "FCTE - LDTEA Sala 302"
+    },
+    {
+        "subject": "FGA0226 - ELETRÔNICA VEICULAR",
+        "class_id": "01",
+        "professor": "EVANDRO LEONARDO SILVA TEIXEIRA",
+        "schedule": "35M34",
+        "location": "FCTE - MULTIUSO"
+    },
+    {
+        "subject": "FGA0228 - PROJETO DE SISTEMAS AUTOMOTIVOS",
+        "class_id": "01",
+        "professor": "CARLA TATIANA MOTA ANFLOR",
+        "schedule": "24M12",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0229 - ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+        "class_id": "01",
+        "professor": "MAURA ANGELICA MILFONT SHZU",
+        "schedule": "35M12",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0230 - DINÂMICA DE VEÍCULOS",
+        "class_id": "01",
+        "professor": "SUZANA MOREIRA AVILA",
+        "schedule": "35M12",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0232 - INTEGRAÇÃO E TESTES",
+        "class_id": "01",
+        "professor": "HENRIQUE GOMES DE MOURA",
+        "schedule": "24M34",
+        "location": "FCTE - MULTIUSO / S7"
+    },
+    {
+        "subject": "FGA0233 - SENSORES E TRANSDUTORES",
+        "class_id": "01",
+        "professor": "ALESSANDRO BORGES DE SOUSA OLIVEIRA",
+        "schedule": "35M34",
+        "location": "FCTE - LAB SHP"
+    },
+    {
+        "subject": "FGA0235 - TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA",
+        "class_id": "01",
+        "professor": "RUDI HENRI VAN ELS",
+        "schedule": "24N12",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0236 - BIORREFINARIAS",
+        "class_id": "01",
+        "professor": "MARIA DEL PILAR HIDALGO FALLA",
+        "schedule": "35T23",
+        "location": "FCTE - LAB. NIT/LDS"
+    },
+    {
+        "subject": "FGA0242 - TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+        "class_id": "01",
+        "professor": "ANDRE LUIZ PERON MARTINS LANNA",
+        "schedule": "24T45",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0242 - TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+        "class_id": "02",
+        "professor": "THIAGO LUIZ DE SOUZA GOMES",
+        "schedule": "24M12",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0244 - PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+        "class_id": "01",
+        "professor": "DANIEL SUNDFELD LIMA",
+        "schedule": "46M34",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0244 - PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+        "class_id": "02",
+        "professor": "FERNANDO WILLIAM CRUZ",
+        "schedule": "24M5  24T1",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0252 - SISTEMAS HIDROELÉTRICOS",
+        "class_id": "01",
+        "professor": "RUDI HENRI VAN ELS",
+        "schedule": "46M12  2T4",
+        "location": "FCTE - TERMODINÂMICA / LAB TERMOFLUIDOS"
+    },
+    {
+        "subject": "FGA0254 - CIÊNCIAS AEROESPACIAIS",
+        "class_id": "01",
+        "professor": "GABRIELA CUNHA POSSA",
+        "schedule": "35M34",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0254 - CIÊNCIAS AEROESPACIAIS",
+        "class_id": "02",
+        "professor": "GABRIELA CUNHA POSSA",
+        "schedule": "35T23",
+        "location": "FCTE - I3"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "01",
+        "professor": "CRISTIANO JACQUES MIOSSO RODRIGUES MENDES",
+        "schedule": "46T23",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "02",
+        "professor": "FABIANO ARAUJO SOARES",
+        "schedule": "35T6  35N1",
+        "location": "FCTE - S7"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "03",
+        "professor": "GUILLERMO ALVAREZ BESTARD",
+        "schedule": "24T6  24N1",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "04",
+        "professor": "MARCUS VINICIUS BATISTUTA",
+        "schedule": "35M34",
+        "location": "FCTE - LAB NIT/LDS"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "05",
+        "professor": "HENRIQUE GOMES DE MOURA",
+        "schedule": "6M5  4T23 6T1",
+        "location": "FCTE - S8 / I7"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "06",
+        "professor": "MARCUS VINICIUS CHAFFIM COSTA",
+        "schedule": "46M34",
+        "location": "FCTE - I7"
+    },
+    {
+        "subject": "FGA0261 - TÓPICOS ESPECIAIS EM ELETRONICA",
+        "class_id": "07",
+        "professor": "SEBASTIEN ROLAND MARIE JOSEPH RONDINEAU",
+        "schedule": "46M5  46T1",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0262 - TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+        "class_id": "01",
+        "professor": "LOANA NUNES VELASCO",
+        "schedule": "2M34 4M345",
+        "location": "FCTE - I5 / I2 / LAB ELET"
+    },
+    {
+        "subject": "FGA0265 - ECONOMIA DE ENERGIA",
+        "class_id": "01",
+        "professor": "PAULA MEYER SOARES",
+        "schedule": "35M12",
+        "location": "FCTE - S5"
+    },
+    {
+        "subject": "FGA0266 - ACÚSTICA E VIBRAÇÕES VEICULARES",
+        "class_id": "01",
+        "professor": "MARIA ALZIRA DE ARAUJO NUNES",
+        "schedule": "46M34",
+        "location": "FCTE - MULTIUSO"
+    },
+    {
+        "subject": "FGA0270 - SISTEMAS HIDRÁULICOS E PNEUMÁTICOS",
+        "class_id": "01",
+        "professor": "BRUNO LUIZ PEREIRA",
+        "schedule": "24M34",
+        "location": "FCTE - LAB SHP"
+    },
+    {
+        "subject": "FGA0273 - MELHORIA DE PROCESSOS DE SOFTWARE",
+        "class_id": "01",
+        "professor": "CRISTIANE SOARES RAMOS",
+        "schedule": "24M12",
+        "location": "FCTE - Multiuso"
+    },
+    {
+        "subject": "FGA0274 - PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+        "class_id": "01",
+        "professor": "WANDER CLEBER MARIA PEREIRA DA SILVA",
+        "schedule": "35M34",
+        "location": "FCTE - I5"
+    },
+    {
+        "subject": "FGA0280 - PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2",
+        "class_id": "01",
+        "professor": "SANDRO AUGUSTO PAVLIK HADDAD",
+        "schedule": "35T23",
+        "location": "FCTE - LAB SS / I4"
+    },
+    {
+        "subject": "FGA0282 - FUNDAMENTOS DO PROJETO DE AERONAVES",
+        "class_id": "01",
+        "professor": "POLLIANA CANDIDA OLIVEIRA MARTINS",
+        "schedule": "46M12",
+        "location": "FCTE - S8"
+    },
+    {
+        "subject": "FGA0284 - ENGENHARIA DE MANUTENÇÃO",
+        "class_id": "01",
+        "professor": "FABIO CORDEIRO DE LISBOA",
+        "schedule": "46T45",
+        "location": "FCTE - I8"
+    },
+    {
+        "subject": "FGA0286 - FUNDAMENTOS DO MÉTODO DOS ELEMENTOS FINITOS",
+        "class_id": "01",
+        "professor": "MANUEL NASCIMENTO DIAS BARCELOS JUNIOR",
+        "schedule": "6M345  6T1",
+        "location": "FCTE - LDTEA SALA 302"
+    },
+    {
+        "subject": "FGA0291 - MECÂNICA DE ESTRUTURAS AERONÁUTICAS",
+        "class_id": "01",
+        "professor": "ARTEM ANDRIANOV",
+        "schedule": "35M34",
+        "location": "FCTE - I4"
+    },
+    {
+        "subject": "FGA0301 - INSTALAÇÕES ELÉTRICAS EM SISTEMAS DE ENERGIA",
+        "class_id": "01",
+        "professor": "ALEX REIS",
+        "schedule": "46M34",
+        "location": "FCTE - LAB ELETRICIDADE"
+    },
+    {
+        "subject": "FGA0302 - ENGENHARIA E AMBIENTE",
+        "class_id": "01",
+        "professor": "MARIA VITORIA DUARTE FERRARI",
+        "schedule": "46M12",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0302 - ENGENHARIA E AMBIENTE",
+        "class_id": "02",
+        "professor": "AUGUSTO CESAR DE MENDONCA BRASIL",
+        "schedule": "24T45",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "FGA0302 - ENGENHARIA E AMBIENTE",
+        "class_id": "03",
+        "professor": "JULIANA DALBONI ROCHA",
+        "schedule": "35M34",
+        "location": "FCTE - S1"
+    },
+    {
+        "subject": "FGA0303 - PROJETO INTEGRADOR DE ENGENHARIA 1",
+        "class_id": "01",
+        "professor": "DIOGO CAETANO GARCIA",
+        "schedule": "24T45",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0303 - PROJETO INTEGRADOR DE ENGENHARIA 1",
+        "class_id": "02",
+        "professor": "JULIANA PETROCCHI RODRIGUES",
+        "schedule": "24T45",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0303 - PROJETO INTEGRADOR DE ENGENHARIA 1",
+        "class_id": "03",
+        "professor": "HILMER RODRIGUES NERI",
+        "schedule": "24T45",
+        "location": "FCTE - AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0303 - PROJETO INTEGRADOR DE ENGENHARIA 1",
+        "class_id": "04",
+        "professor": "LUI TXAI CALVOSO HABL",
+        "schedule": "24T45",
+        "location": "FCTE - S2 / S5"
+    },
+    {
+        "subject": "FGA0303 - PROJETO INTEGRADOR DE ENGENHARIA 1",
+        "class_id": "05",
+        "professor": "BRUNO LUIZ PEREIRA",
+        "schedule": "24T45",
+        "location": "FCTE - S2 / S6"
+    },
+    {
+        "subject": "FGA0304 - PROJETO INTEGRADOR DE ENGENHARIA 2",
+        "class_id": "01",
+        "professor": "SANDRO AUGUSTO PAVLIK HADDAD",
+        "schedule": "4T45 6T2345",
+        "location": "FCTE - S1 / AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0304 - PROJETO INTEGRADOR DE ENGENHARIA 2",
+        "class_id": "02",
+        "professor": "RICARDO MATOS CHAIM",
+        "schedule": "4T45 6T2345",
+        "location": "FCTE - S1 / AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0304 - PROJETO INTEGRADOR DE ENGENHARIA 2",
+        "class_id": "03",
+        "professor": "ALEX REIS",
+        "schedule": "4T45 6T2345",
+        "location": "FCTE - S1 / AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0304 - PROJETO INTEGRADOR DE ENGENHARIA 2",
+        "class_id": "04",
+        "professor": "RAFAEL CASTILHO FARIA MENDES",
+        "schedule": "4T45 6T2345",
+        "location": "FCTE - S1 / AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0304 - PROJETO INTEGRADOR DE ENGENHARIA 2",
+        "class_id": "05",
+        "professor": "RHANDER VIANA",
+        "schedule": "4T45 6T2345",
+        "location": "FCTE - S1 / AUDITÓRIO"
+    },
+    {
+        "subject": "FGA0307 - GESTÃO DA PRODUÇÃO E QUALIDADE",
+        "class_id": "01",
+        "professor": "MARIO DE OLIVEIRA ANDRADE",
+        "schedule": "35T45",
+        "location": "FCTE - S3"
+    },
+    {
+        "subject": "FGA0307 - GESTÃO DA PRODUÇÃO E QUALIDADE",
+        "class_id": "02",
+        "professor": "REJANE MARIA DA COSTA FIGUEIREDO",
+        "schedule": "35T23",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "FGA0308 - ELETRÔNICA EMBARCADA",
+        "class_id": "01",
+        "professor": "GUILLERMO ALVAREZ BESTARD",
+        "schedule": "246T45",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0309 - SISTEMAS OPERACIONAIS EMBARCADOS",
+        "class_id": "01",
+        "professor": "DIOGO CAETANO GARCIA",
+        "schedule": "246T23",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0310 - PROJETO EXTENSIONISTA EM ENGENHARIA ELETRÔNICA 1",
+        "class_id": "01",
+        "professor": "ROBERTO DE SOUZA BAPTISTA",
+        "schedule": "35M34",
+        "location": "FCTE - LAB SS"
+    },
+    {
+        "subject": "FGA0312 - MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+        "class_id": "01",
+        "professor": "RICARDO AJAX DIAS KOSLOSKI",
+        "schedule": "7M1234",
+        "location": "FCTE - I9"
+    },
+    {
+        "subject": "FGA0312 - MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+        "class_id": "02",
+        "professor": "CARLA SILVA ROCHA AGUIAR",
+        "schedule": "24M5  24T1",
+        "location": "FCTE - S1 / MOCAP"
+    },
+    {
+        "subject": "FGA0312 - MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+        "class_id": "03",
+        "professor": "RICARDO AJAX DIAS KOSLOSKI",
+        "schedule": "35T23",
+        "location": "FCTE - S10"
+    },
+    {
+        "subject": "FGA0313 - REQUISITOS DE SOFTWARE",
+        "class_id": "01",
+        "professor": "GEORGE MARSICANO CORREA",
+        "schedule": "35M12",
+        "location": "FCTE - I7 / I3"
+    },
+    {
+        "subject": "FGA0313 - REQUISITOS DE SOFTWARE",
+        "class_id": "02",
+        "professor": "GEORGE MARSICANO CORREA",
+        "schedule": "35M34",
+        "location": "FCTE - I7 / I3"
+    },
+    {
+        "subject": "FGA0314 - TESTES DE SOFTWARE",
+        "class_id": "01",
+        "professor": "ELAINE VENSON",
+        "schedule": "35M12",
+        "location": "FCTE - I10"
+    },
+    {
+        "subject": "FGA0314 - TESTES DE SOFTWARE",
+        "class_id": "02",
+        "professor": "ELAINE VENSON",
+        "schedule": "35M34",
+        "location": "FCTE - I6"
+    },
+    {
+        "subject": "FGA0315 - QUALIDADE DE SOFTWARE 1",
+        "class_id": "01",
+        "professor": "CRISTIANE SOARES RAMOS",
+        "schedule": "24M34",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0315 - QUALIDADE DE SOFTWARE 1",
+        "class_id": "02",
+        "professor": "CRISTIANE SOARES RAMOS",
+        "schedule": "24T23",
+        "location": "FCTE - S6"
+    },
+    {
+        "subject": "FGA0316 - ENGENHARIA DE PRODUTO DE SOFTWARE",
+        "class_id": "01",
+        "professor": "RICARDO MATOS CHAIM",
+        "schedule": "46M5  46T1",
+        "location": "FCTE - S2"
+    },
+    {
+        "subject": "FGA0316 - ENGENHARIA DE PRODUTO DE SOFTWARE",
+        "class_id": "02",
+        "professor": "HILMER RODRIGUES NERI",
+        "schedule": "2M345  2T1",
+        "location": "FCTE - MOCAP"
+    },
+    {
+        "subject": "FGA0317 - GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+        "class_id": "01",
+        "professor": "CARLA SILVA ROCHA AGUIAR",
+        "schedule": "24T45",
+        "location": "FCTE - S3 / S4"
+    }
+]
