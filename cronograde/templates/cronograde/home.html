@@ -1,0 +1,139 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronograde</title>
+    <link rel="stylesheet" href="{% static 'css/app.css' %}">
+</head>
+<body>
+    <header class="header">
+        <h1 class="logo">Cronograde</h1>
+        <p class="subtitle">Monte sua grade horaria ideal usando teoria de grafos</p>
+    </header>
+
+    <nav class="tabs">
+        <button class="tab active" data-tab="subjects">Materias</button>
+        <button class="tab" data-tab="availability">Disponibilidade</button>
+        <button class="tab" data-tab="results">Resultado</button>
+    </nav>
+
+    <!-- Aba 1: Materias -->
+    <section id="tab-subjects" class="tab-content active">
+        <div class="panel">
+            <div class="search-bar">
+                <input type="text" id="subject-search" placeholder="Buscar por nome ou codigo..." autocomplete="off">
+            </div>
+            <div id="subject-list" class="subject-list">
+                <p class="placeholder-text">Digite para buscar materias...</p>
+            </div>
+            <div id="selected-subjects" class="selected-subjects">
+                <h3>Materias selecionadas: <span id="selected-count">0</span></h3>
+                <div id="selected-chips"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Aba 2: Disponibilidade -->
+    <section id="tab-availability" class="tab-content">
+        <div class="panel">
+            <div class="availability-toolbar">
+                <div class="legend">
+                    <div class="legend-item"><span class="legend-box available"></span> Disponivel (peso 3)</div>
+                    <div class="legend-item"><span class="legend-box preferred"></span> Preferencial (peso 10)</div>
+                </div>
+                <div class="toolbar-actions">
+                    <button id="btn-select-all" class="btn btn-sm">Selecionar tudo</button>
+                    <button id="btn-clear-all" class="btn btn-sm btn-outline">Limpar tudo</button>
+                </div>
+            </div>
+            <div class="schedule-grid-wrapper">
+                <div class="schedule-grid">
+                    <div class="grid-header corner"></div>
+                    {% for day in days %}
+                        <div class="grid-header day-header">{{ day }}</div>
+                    {% endfor %}
+
+                    {% for row in organized_rows %}
+                        {% if row.type == "separator" %}
+                            <div class="period-separator">{{ row.label }}</div>
+                        {% else %}
+                            <div class="grid-label">{{ row.label }}</div>
+                            {% for code in row.codes %}
+                                <div class="grid-cell" data-code="{{ code }}"></div>
+                            {% endfor %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="action-bar">
+                <button id="btn-generate" class="btn btn-primary btn-lg">Gerar Grade Otimizada</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Aba 3: Resultado -->
+    <section id="tab-results" class="tab-content">
+        <div id="results-placeholder" class="panel results-placeholder">
+            <p>Selecione materias e sua disponibilidade, depois clique em <strong>"Gerar Grade Otimizada"</strong>.</p>
+        </div>
+        <div id="results-content" class="results-content" style="display:none;">
+            <div class="results-stats">
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-weight">0</span>
+                    <span class="stat-label">Peso Total</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-sections">0</span>
+                    <span class="stat-label">Turmas Alocadas</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-nodes">0</span>
+                    <span class="stat-label">Nos no Grafo</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-value" id="stat-conflicts">0</span>
+                    <span class="stat-label">Conflitos (Arestas)</span>
+                </div>
+            </div>
+
+            <div class="results-panels">
+                <div class="result-panel">
+                    <h3>Grade Horaria Otimizada</h3>
+                    <div class="result-schedule-wrapper">
+                        <div class="result-schedule-grid">
+                            <div class="grid-header corner"></div>
+                            {% for day in days %}
+                                <div class="grid-header day-header">{{ day }}</div>
+                            {% endfor %}
+                            {% for row in organized_rows %}
+                                {% if row.type == "separator" %}
+                                    <div class="period-separator">{{ row.label }}</div>
+                                {% else %}
+                                    <div class="grid-label">{{ row.label }}</div>
+                                    {% for code in row.codes %}
+                                        <div class="result-cell" data-code="{{ code }}"></div>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+                <div class="result-panel">
+                    <h3>Grafo de Conflitos</h3>
+                    <canvas id="graph-canvas" width="600" height="500"></canvas>
+                    <div id="graph-tooltip" class="graph-tooltip" style="display:none;"></div>
+                </div>
+            </div>
+
+            <div class="selected-sections-list">
+                <h3>Turmas Selecionadas</h3>
+                <div id="sections-detail"></div>
+            </div>
+        </div>
+    </section>
+
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+</html>

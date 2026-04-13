@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weekly Agenda</title>
+    <link rel="stylesheet" href="{% static 'css/agenda.css' %}">
+</head>
+<body>
+    <div class="container">
+        <h1>Weekly Agenda</h1>
+        <div class="legend">
+            <div><span class="box available"></span> Available</div>
+            <div><span class="box preferred"></span> Preferred</div>
+        </div>
+        <div class="agenda-grid">
+            <div class="header">Time</div>
+            <div class="header">Mon</div>
+            <div class="header">Tue</div>
+            <div class="header">Wed</div>
+            <div class="header">Thu</div>
+            <div class="header">Fri</div>
+            <div class="header">Sat</div>
+            {% for time_slot in time_slots %}
+                <div class="time-slot-label">{{ time_slot.label|slice:"-15:" }}</div>
+                {% for day in days %}
+                    <div class="time-slot" data-code="{{ time_slot.value }}" data-day="{{ day }}"></div>
+                {% endfor %}
+            {% endfor %}
+        </div>
+        <button id="continue-btn">Continue</button>
+    </div>
+    <script src="{% static 'js/agenda.js' %}"></script>
+</body>
+</html>
