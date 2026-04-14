@@ -1,0 +1,379 @@
+{% extends "cronograde/base.html" %}
+{% load static %}
+{% block body_class %}planner-page{% endblock %}
+{% block title %}Resultado - CronoGrade{% endblock %}
+
+{% block content %}
+<style>
+    .planner-container {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 0;
+        animation: fadeIn 0.4s ease-out;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    .planner-header {
+        text-align: center;
+        margin-bottom: 2.5rem;
+    }
+
+    .planner-header h1 {
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: var(--text-main);
+        margin-bottom: 0.75rem;
+    }
+
+    .planner-header p {
+        color: var(--text-muted);
+        font-size: 1.125rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    /* Agenda Grid */
+    .agenda-card {
+        background: white;
+        border-radius: 1.25rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid #e5e7eb;
+        padding: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .agenda-grid {
+        display: grid;
+        grid-template-columns: 125px repeat(6, 1fr);
+        gap: 10px;
+        user-select: none;
+    }
+
+    .agenda-cell {
+        border-radius: 0.5rem;
+        padding: 0.5rem;
+        text-align: center;
+        font-size: 0.85rem;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 42px;
+        transition: all 0.15s ease;
+    }
+
+    .agenda-header {
+        font-weight: 700;
+        color: var(--text-main);
+        padding-bottom: 0.5rem;
+        font-size: 1rem;
+    }
+
+    .agenda-time {
+        font-weight: 600;
+        color: var(--text-muted);
+        font-size: 0.85rem;
+        justify-content: flex-end;
+        padding-right: 0.75rem;
+        white-space: nowrap;
+    }
+
+    .agenda-slot {
+        background-color: #f8fafc;
+        border: 2px solid transparent;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .slot-filled {
+        background-color: var(--primary-color);
+        border-color: var(--primary-hover);
+        color: white;
+    }
+
+    .pagination-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+        padding: 0.5rem 0;
+    }
+
+    .pagination-btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #f1f5f9;
+        color: #334155;
+        padding: 0.5rem 1rem;
+        border-radius: 0.5rem;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.2s;
+        gap: 0.5rem;
+    }
+
+    .pagination-btn:hover {
+        background-color: #e2e8f0;
+        color: #0f172a;
+    }
+    
+    .pagination-btn.disabled {
+        opacity: 0.5;
+        pointer-events: none;
+        cursor: not-allowed;
+    }
+
+    .score-badge {
+        background-color: #fef9c3;
+        color: #b45309;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-weight: 700;
+        font-size: 0.875rem;
+        border: 1px solid #fde047;
+    }
+
+    .classes-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 1.5rem;
+        margin-top: 2.5rem;
+    }
+
+    .class-item {
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        padding: 1.25rem;
+        border-radius: 0.75rem;
+        box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+        transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+    
+    .class-item:hover {
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        transform: translateY(-2px);
+    }
+
+    .class-item-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.5rem;
+    }
+
+    .class-item-title {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .class-color-dot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        display: inline-block;
+    }
+
+    .class-item-title h3 {
+        font-size: 1.125rem;
+        font-weight: 700;
+        color: var(--text-main);
+        margin: 0;
+        letter-spacing: -0.025em;
+    }
+
+    .class-subject-name {
+        font-size: 0.95rem;
+        color: var(--text-muted);
+        margin: 0 0 1.25rem 0;
+        line-height: 1.4;
+    }
+
+    .class-item-details {
+        display: flex;
+        gap: 1.5rem;
+        border-top: 1px solid #f3f4f6;
+        padding-top: 1rem;
+    }
+
+    .detail-block {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .detail-label {
+        font-size: 0.75rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        color: #9ca3af;
+        font-weight: 600;
+    }
+
+    .detail-value {
+        font-size: 0.875rem;
+        color: var(--text-main);
+        font-weight: 500;
+    }
+</style>
+
+<div class="planner-container">
+    <div class="planner-header">
+        <h1>Sua Grade Ideal</h1>
+        <p>Aqui estão as melhores combinações geradas pelo nosso algoritmo, baseadas nas suas preferências de horário.</p>
+    </div>
+
+    {% if error %}
+        <div style="background: #fee2e2; color: #b91c1c; padding: 2rem; border-radius: 1.25rem; border: 1px solid #fecaca; text-align: center; box-shadow: var(--shadow-md);">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 3rem; height: 3rem; margin: 0 auto 1rem; display: block;">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" />
+            </svg>
+            <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Nenhum dado encontrado</h3>
+            <p>Parece que você acessou esta página diretamente. Por favor, selecione suas disciplinas primeiro.</p>
+            <a href="{% url 'cronograde:subjects' %}" class="pagination-btn" style="background: var(--primary-color); color: white; margin-top: 1.5rem; border: none;">Voltar para Seleção</a>
+        </div>
+    {% elif no_results %}
+        <div style="background: #fef2f2; color: #991b1b; padding: 2rem; border-radius: 1.25rem; border: 1px solid #fecaca; text-align: center; box-shadow: var(--shadow-md);">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 3rem; height: 3rem; margin: 0 auto 1rem; display: block;">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12H9m12 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+            </svg>
+            <h3 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Sem Combinações Possíveis</h3>
+            <p>Não encontramos nenhuma grade que acomode a quantidade de disciplinas desejada nos horários que você marcou como disponíveis.</p>
+            <p style="margin-top: 0.5rem;">Tente aumentar sua disponibilidade de horários no planejador.</p>
+            <a href="{% url 'cronograde:planner' %}" class="pagination-btn" style="background: var(--primary-color); color: white; margin-top: 1.5rem; border: none;">Ajustar Horários</a>
+        </div>
+    {% else %}
+        <div class="pagination-container">
+            <a href="{% if has_prev %}{% url 'cronograde:results' prev_rank %}{% else %}#{% endif %}" class="pagination-btn {% if not has_prev %}disabled{% endif %}">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 1.25rem; height: 1.25rem;">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
+                </svg>
+                Anterior
+            </a>
+            
+            <div style="display: flex; align-items: center; gap: 1rem;">
+                <span style="font-weight: 600; color: var(--text-main);">Opção {{ rank }} de {{ total_schedules }}</span>
+                <span class="score-badge">Pontuação: {{ score }}</span>
+            </div>
+
+            <a href="{% if has_next %}{% url 'cronograde:results' next_rank %}{% else %}#{% endif %}" class="pagination-btn {% if not has_next %}disabled{% endif %}">
+                Próxima
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" style="width: 1.25rem; height: 1.25rem;">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+                </svg>
+            </a>
+        </div>
+
+        <div class="agenda-card">
+            <div class="agenda-grid" id="agenda">
+                <div class="agenda-cell agenda-header"></div>
+                <div class="agenda-cell agenda-header">Segunda</div>
+                <div class="agenda-cell agenda-header">Terça</div>
+                <div class="agenda-cell agenda-header">Quarta</div>
+                <div class="agenda-cell agenda-header">Quinta</div>
+                <div class="agenda-cell agenda-header">Sexta</div>
+                <div class="agenda-cell agenda-header">Sábado</div>
+            </div>
+
+            <div class="classes-list">
+                {% for c in classes %}
+                <div class="class-item" style="border-color: {{ c.color }}60;">
+                    <div class="class-item-header">
+                        <div class="class-item-title">
+                            <span class="class-color-dot" style="background-color: {{ c.color }};"></span>
+                            <h3 style="color: {{ c.color }};">{{ c.subject_code }}</h3>
+                        </div>
+                        <span class="score-badge" style="background-color: {{ c.color }}15; color: {{ c.color }}; border-color: {{ c.color }}30;">+{{ c.points }} pts</span>
+                    </div>
+                    <p class="class-subject-name">{{ c.subject_name }}</p>
+                    <div class="class-item-details">
+                        <div class="detail-block">
+                            <span class="detail-label">Turma</span>
+                            <span class="detail-value">{{ c.section_code }}</span>
+                        </div>
+                        <div class="detail-block">
+                            <span class="detail-label">Professor</span>
+                            <span class="detail-value">{{ c.professor }}</span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            
+            <div style="margin-top: 2rem; text-align: center;">
+                <button type="button" class="pagination-btn" style="background: white; border: 1px solid #cbd5e1; cursor: pointer;" onclick="sessionStorage.clear(); window.location.href='{% url "cronograde:home" %}';">Refazer Grade</button>
+            </div>
+        </div>
+    {% endif %}
+</div>
+
+{{ agenda_data|json_script:"agenda-data" }}
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const agendaDataElement = document.getElementById('agenda-data');
+        if (!agendaDataElement) return; // Se tiver erro ou não tiver resultados, não roda
+
+        const agendaData = JSON.parse(agendaDataElement.textContent);
+
+        const times = [
+            { label: '08:00 - 08:55', code: 11 },
+            { label: '08:55 - 09:50', code: 12 },
+            { label: '10:00 - 10:55', code: 13 },
+            { label: '10:55 - 11:50', code: 14 },
+            { label: '12:00 - 12:55', code: 15 },
+            { label: '12:55 - 13:50', code: 21 },
+            { label: '14:00 - 14:55', code: 22 },
+            { label: '14:55 - 15:50', code: 23 },
+            { label: '16:00 - 16:55', code: 24 },
+            { label: '16:55 - 17:50', code: 25 },
+            { label: '18:00 - 18:55', code: 26 },
+            { label: '18:55 - 19:50', code: 27 },
+            { label: '19:00 - 19:50', code: 31 },
+            { label: '19:50 - 20:40', code: 32 },
+            { label: '20:50 - 21:40', code: 33 },
+            { label: '21:40 - 22:30', code: 34 },
+        ];
+
+        const days = [
+            { name: 'Segunda', code: 2 },
+            { name: 'Terça', code: 3 },
+            { name: 'Quarta', code: 4 },
+            { name: 'Quinta', code: 5 },
+            { name: 'Sexta', code: 6 },
+            { name: 'Sábado', code: 7 }
+        ];
+
+        const agenda = document.getElementById('agenda');
+        
+        times.forEach(time => {
+            const timeCell = document.createElement('div');
+            timeCell.className = 'agenda-cell agenda-time';
+            timeCell.innerText = time.label;
+            agenda.appendChild(timeCell);
+
+            days.forEach(day => {
+                const slotCode = `${day.code}${time.code}`;
+                const slotCell = document.createElement('div');
+                slotCell.className = 'agenda-cell agenda-slot';
+                
+                // Se existe aula para este slot
+                if (agendaData[slotCode]) {
+                    slotCell.classList.add('slot-filled');
+                    slotCell.innerText = agendaData[slotCode].text;
+                    slotCell.style.backgroundColor = agendaData[slotCode].color;
+                    slotCell.style.borderColor = agendaData[slotCode].color;
+                }
+
+                agenda.appendChild(slotCell);
+            });
+        });
+    });
+</script>
+{% endblock %}lock %}k %}lock %}

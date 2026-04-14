@@ -1,0 +1,220 @@
+{% extends "cronograde/base.html" %}
+{% block body_class %}planner-page{% endblock %}
+{% block title %}Sobre - CronoGrade{% endblock %}
+
+{% block content %}
+<style>
+    .about-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+        animation: fadeIn 0.4s ease-out;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    .about-header {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .about-header h1 {
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: var(--text-main);
+        margin-bottom: 1rem;
+        letter-spacing: -0.025em;
+    }
+
+    .about-header p {
+        font-size: 1.125rem;
+        color: var(--text-muted);
+        line-height: 1.6;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .about-card {
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        border-radius: 1rem;
+        padding: 2.5rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+        margin-bottom: 2rem;
+    }
+
+    .about-section {
+        margin-bottom: 2.5rem;
+    }
+
+    .about-section:last-child {
+        margin-bottom: 0;
+    }
+
+    .about-section h2 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--text-main);
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        border-bottom: 2px solid #f3f4f6;
+        padding-bottom: 0.5rem;
+    }
+
+    .about-section p {
+        color: var(--text-muted);
+        line-height: 1.7;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+
+    .algo-steps {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 0.75rem;
+        padding: 1.5rem;
+        margin-top: 1.5rem;
+    }
+
+    .algo-step {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1.25rem;
+    }
+
+    .algo-step:last-child {
+        margin-bottom: 0;
+    }
+
+    .step-number {
+        background: var(--primary-color);
+        color: white;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 0.875rem;
+        flex-shrink: 0;
+        box-shadow: 0 2px 4px rgba(37, 99, 235, 0.2);
+    }
+
+    .step-content h3 {
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: var(--text-main);
+        margin: 0 0 0.25rem 0;
+    }
+
+    .step-content p {
+        margin: 0;
+        font-size: 0.95rem;
+    }
+
+    .tech-badge {
+        display: inline-block;
+        background: #eff6ff;
+        color: #1d4ed8;
+        padding: 0.25rem 0.75rem;
+        border-radius: 9999px;
+        font-size: 0.75rem;
+        font-weight: 600;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+        border: 1px solid #bfdbfe;
+    }
+
+    .icon-svg {
+        width: 1.5rem;
+        height: 1.5rem;
+        color: var(--primary-color);
+    }
+</style>
+
+<div class="about-container">
+    <div class="about-header">
+        <h1>Sobre o Projeto</h1>
+        <p>Desenvolvido para a disciplina de Projeto de Algoritmos, o CronoGrade aplica a teoria dos grafos na resolução de um problema real: a montagem de grades horárias universitárias.</p>
+    </div>
+
+    <div class="about-card">
+        <div class="about-section">
+            <h2>
+                <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.82 1.508-2.316a7.5 7.5 0 1 0-7.516 0c.85.496 1.508 1.333 1.508 2.316V18" />
+                </svg>
+                O Problema
+            </h2>
+            <p>Montar a grade ideal todo semestre é um desafio para estudantes. É necessário conciliar disciplinas obrigatórias, evitar conflitos de horário (choque de turmas) e tentar agrupar as aulas nos turnos em que o aluno tem maior disponibilidade.</p>
+            <p>O CronoGrade transforma esse quebra-cabeça logístico em um problema clássico de <strong>Busca em Grafos e Otimização Combinatória</strong>.</p>
+        </div>
+
+        <div class="about-section">
+            <h2>
+                <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M7.5 21 3 16.5m0 0L7.5 12M3 16.5h13.5m0-13.5L21 7.5m0 0L16.5 12M21 7.5H7.5" />
+                </svg>
+                A Modelagem em Grafos
+            </h2>
+            <p>A solução central do projeto se apoia em uma modelagem matemática precisa utilizando Grafos de Compatibilidade (Representados por Lista de Adjacência).</p>
+            
+            <div style="margin-bottom: 1rem;">
+                <strong style="color: var(--text-main); font-size: 1.05rem; margin-right: 0.25rem;">Vértices (Nós):</strong>
+                <span style="color: var(--text-muted); font-size: 0.95rem;">Cada vértice representa uma <strong>Turma Específica</strong> (ex: Cálculo 1 - Turma A) que está dentro dos horários disponíveis escolhidos pelo aluno.</span>
+            </div>
+            
+            <div>
+                <strong style="color: var(--text-main); font-size: 1.05rem; margin-right: 0.25rem;">Arestas (Ligações):</strong>
+                <span style="color: var(--text-muted); font-size: 0.95rem;">Existe uma aresta ligando dois vértices apenas se essas turmas forem <strong>mutuamente compatíveis</strong>, ou seja, pertencem a disciplinas diferentes e <strong>não possuem choque de horário</strong>.</span>
+            </div>
+        </div>
+
+        <div class="about-section">
+            <h2>
+                <svg class="icon-svg" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M14.25 9.75 16.5 12l-2.25 2.25m-4.5 0L7.5 12l2.25-2.25M6 20.25h12A2.25 2.25 0 0 0 20.25 18V6A2.25 2.25 0 0 0 18 3.75H6A2.25 2.25 0 0 0 3.75 6v12A2.25 2.25 0 0 0 6 20.25Z" />
+                </svg>
+                O Algoritmo (DFS)
+            </h2>
+            <p>O objetivo do motor do sistema é encontrar <strong>Cliques</strong> (subgrafos completos) dentro deste grafo de compatibilidade que tenham o tamanho exato da quantidade de disciplinas solicitada pelo usuário.</p>
+            
+            <div class="algo-steps">
+                <div class="algo-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h3>Filtragem e Pontuação</h3>
+                        <p>O algoritmo descarta qualquer turma que possua aulas em horários marcados como indisponíveis (poda inicial) e atribui pontos a cada turma baseando-se no peso que o usuário deu aos horários (ex: Melhor Horário = 10 pts).</p>
+                    </div>
+                </div>
+                
+                <div class="algo-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h3>Depth-First Search (Busca em Profundidade)</h3>
+                        <p>O sistema navega pelo grafo utilizando uma estratégia de <strong>DFS Backtracking</strong>. Ele tenta construir combinações válidas turma a turma, recuando (backtracking) sempre que encontra uma incompatibilidade ou percebe que não será possível alcançar a quantidade desejada de matérias.</p>
+                    </div>
+                </div>
+                
+                <div class="algo-step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h3>Ranking e Otimização</h3>
+                        <p>Ao encontrar uma grade perfeita (um Clique válido), o algoritmo salva essa combinação e calcula sua pontuação total (a soma dos pesos dos horários). Todas as grades encontradas são ordenadas de forma decrescente, retornando ao usuário as opções matemáticas mais alinhadas com sua preferência pessoal.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 1rem;">
+        <a href="{% url 'cronograde:home' %}" class="btn-continue" style="display: inline-block; width: auto; padding: 0.75rem 2.5rem; text-decoration: none;">Voltar ao Início</a>
+    </div>
+</div>
+{% endblock %}

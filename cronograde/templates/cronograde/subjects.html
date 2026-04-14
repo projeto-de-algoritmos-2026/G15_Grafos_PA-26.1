@@ -1,0 +1,91 @@
+{% extends "cronograde/base.html" %}
+{% load static %}
+{% block title %}Página Principal - CronoGrade{% endblock %}
+{% block content %}
+    <div class="home-grid">
+
+        <div class="selection-side">
+            <div class="title-section">
+                <h1>Crie sua grade ideal</h1>
+                <p>Selecione as disciplinas que você deseja cursar neste semestre e deixe que o CronoGrade organize seus horários.</p>
+            </div>
+            <form method="GET"
+                  action="{% url 'cronograde:subjects' %}"
+                  class="search-container"
+                  id="search-form">
+                <svg class="search-icon"
+                     xmlns="http://www.w3.org/2000/svg"
+                     fill="none"
+                     viewBox="0 0 24 24"
+                     stroke-width="2"
+                     stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                </svg>
+                <input type="text"
+                       name="q"
+                       id="subject-search"
+                       placeholder="Pesquisar disciplinas (ex: MAT0025)..."
+                       class="search-input"
+                       value="">
+                <button type="submit" id="search-btn" class="btn-search">Pesquisar</button>
+            </form>
+            <div id="available-subjects" class="available-list">
+                {% if subjects %}
+                    {% for subject in subjects %}
+                        <div class="subject-card" id="available-{{ subject.id }}">
+                            <div class="subject-info">
+                                <h3>{{ subject.code }}</h3>
+                                <p>{{ subject.name }}</p>
+                            </div>
+                            <button type="button"
+                                    class="btn-add"
+                                    onclick="addSubject({{ subject.id }}, '{{ subject.code|escapejs }}', '{{ subject.name|escapejs }}')">
+                                +
+                            </button>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p class="empty-search-msg">Nenhuma disciplina encontrada.</p>
+                {% endif %}
+            </div>
+        </div>
+        <div class="selected-side">
+            <div class="selected-header">
+                <h2>Disciplinas Selecionadas</h2>
+                <div id="selected-subjects" class="selected-list">
+                    <p class="empty-msg">Nenhuma disciplina selecionada ainda.</p>
+                </div>
+                <div class="quantity-selector">
+                    <label for="num_disciplinas">
+                        <span>Qtd. de disciplinas</span>
+                        <span class="quantity-value" id="quantity-display">5</span>
+                    </label>
+                    <input type="range"
+                           id="num_disciplinas"
+                           name="num_disciplinas"
+                           min="1"
+                           max="8"
+                           value="5"
+                           class="quantity-range"
+                           oninput="document.getElementById('quantity-display').innerText = this.value">
+                </div>
+            </div>
+            <button type="button"
+                    class="btn-continue"
+                    data-next-url="{% url 'cronograde:results_base' %}"
+                    onclick="saveAndContinue(event, this)">Continuar</button>
+        </div>
+    </div>
+
+    <form id="final-form" method="POST" action="{% url 'cronograde:process_schedule' %}" style="display: none;">
+        {% csrf_token %}
+        <input type="hidden" name="schedule_data" id="hidden-schedule">
+        <input type="hidden" name="subjects_data" id="hidden-subjects">
+        <input type="hidden" name="num_disciplinas" id="hidden-num">
+    </form>
+    
+    <script src="{% static 'cronograde/js/subjects.js' %}?v=1.6"></script>
+{% endblock %}
+lock %}
+ endblock %}
+lock %}

@@ -1,0 +1,14 @@
+{% extends "cronograde/base.html" %}
+{% block title %}Bem-vindo - CronoGrade{% endblock %}
+
+{% block content %}
+    <div class="home-hero">
+        <div class="title-section">
+            <h1>Crie sua grade ideal</h1>
+            <p>
+                A ferramenta definitiva para organizar sua grade horária universitária de forma inteligente. Simplifique a montagem do seu semestre sem complicações e evite conflitos de horário.
+            </p>
+        </div>
+        <a href="{% url 'cronograde:planner' %}" class="btn-continue home-hero-btn">Começar agora</a>
+    </div>
+{% endblock %}
