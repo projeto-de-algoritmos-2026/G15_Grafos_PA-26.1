@@ -10,6 +10,10 @@
 | 202017049 | Pedro Lucas Figueiredo Santana |
 | 232014487 | Luiz Claudio Barbosa de Farias |
 
+## Video de Apresentacao
+
+[Assista no YouTube](https://youtu.be/Cx_KLjb9s7A)
+
 ## Sobre
 
 O CronoGrade resolve o problema de montagem de grade horaria usando grafos. O aluno seleciona seus horarios disponiveis, escolhe as materias que quer cursar, e o sistema encontra as melhores combinacoes de turmas sem conflito.
